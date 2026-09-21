@@ -224,3 +224,58 @@ Black começa em 29/09 exatamente como planejado. E o PHI tem **300 famílias**.
 3. Quais outros cursos entram no acervo, e o preço de tabela de cada um —
    é isso que define se o Nível 1 fica em R$ 997 ou sobe.
 4. Se o Grupo VIP pode ser reeditado como order bump.
+
+---
+
+## 8. Preço de aluno — um só, para todo mundo
+
+Fechando um ponto que tinha ficado em aberto: eu havia sugerido R$ 697 para
+alunos de cursos e R$ 497 para as famílias do PHI. Isso cria uma escada de
+preço contraditória — a família que paga R$ 1.439 por ano pagaria menos que
+quem comprou um curso uma vez. E vaza.
+
+A regra do Henrique resolve, e é literal:
+
+> "Alunos que compraram R$ 19,90, R$ 29,90, R$ 39, R$ 997 — esse cara vai
+> ter uma condição igual de todo mundo. A gente nunca teve reclamação.
+> Porque a oferta é boa, entendeu? Ele tá olhando pra aquilo, se pra ele é
+> uma oferta boa."
+
+Então: **um preço de aluno só**, dois dias antes, para quem já comprou
+qualquer coisa — curso, low ticket, Grupo VIP, ingresso de lançamento pago,
+e as 300 famílias do PHI.
+
+| | À vista | 12× |
+|---|---|---|
+| Aluno · nível 1 (acervo vitalício) | R$ 697 | R$ 69,70 |
+| Aluno · nível 2 (acervo + 1 ano de PHI) | R$ 1.697 | R$ 169,70 |
+
+Os mesmos R$ 1.000 incrementais pelo PHI do nível 2 geral. A escada fica
+consistente nas duas Blacks.
+
+**As 300 famílias do PHI se diferenciam por bônus, não por preço** —
+extensão de acesso ao programa, encontro exclusivo com o Robson, algo que
+não seja um número. Assim não existe preço contraditório para vazar, e quem
+já paga R$ 1.439 por ano continua sendo tratado como o cliente mais valioso
+da casa.
+
+Projeção revisada do Nível 3, com as 300 famílias a R$ 697:
+
+| Conversão | Acervo vitalício a R$ 697 | Acervo + renovação a R$ 1.697 |
+|---|---|---|
+| 15% · 45 famílias | R$ 31.365 | R$ 76.365 |
+| 25% · 75 famílias | R$ 52.275 | R$ 127.275 |
+| 35% · 105 famílias | R$ 73.185 | R$ 178.185 |
+
+## 9. O que é vitalício e o que não é
+
+| Item | Acesso | Por quê |
+|---|---|---|
+| Acervo de cursos gravados | **Vitalício** | Custo marginal zero |
+| Os 5 entregáveis em PDF | **Vitalício** | São arquivos |
+| Gravações da trilha de implementação | **Vitalício** | Já estarão gravadas |
+| Trilha ao vivo (desafio + lives em grupo) | Turma datada, 8 semanas | Ocupa agenda do Robson |
+| Comunidade de pais | 12 meses | Custo de moderação |
+| Suporte | 24 meses | Regra explícita: suporte vitalício não é viável |
+| PHI ao vivo (nível 2) | **1 ano** | Maior custo recorrente da esteira, e é a receita de 2027 |
+| Mentoria, presenciais, simpósios, pós | **Fora de qualquer nível** | Custo por aluno; é a esteira |
