@@ -27,16 +27,30 @@ O hot seat da Kalinne está na aula 01 (continuação), de 15:34 a 26:57.
 | `03-oferta.md` | Arquitetura do combo, preço, tsunami e a oferta dos compradores de setembro. |
 | `04-criativos-roteiros-e-conteudo.md` | Corredor polonês, trailer, manifesto, pronunciamento, aula magna, narrativa, temas de FLS. |
 | `05-verba-metas-e-execucao.md` | Verba, benchmarks e checklist de execução. |
+| `06-decisao-da-oferta.md` | **A decisão central**, com os dados reais: os 8 debriefings, as duas pesquisas, por que o PHI fica fora da Black e por que R$ 1.997 sozinho não fecha. |
 
 ## As datas
 
 - **17/11 (terça)** — aula magna para alunos
 - **19/11 (quinta)** — aula magna geral (é esta a data que vai em todo criativo)
 
-## As cinco decisões que dependem de você
+## A decisão da oferta
 
-1. Ticket real da anuidade lançada em 22/09.
-2. Qual curso é o **produto principal** que ancora o combo.
-3. A assinatura tem custo recorrente de produção? (define se entra vitalícia ou por prazo)
-4. Plataforma de checkout, e se vale migrar antes de novembro.
-5. O que o Robson vende para essa mesma pessoa em 2027. Sem resposta aqui, o vitalício é um risco.
+**A Black não vende o PHI.** Vende o acervo gravado em combo vitalício,
+ancorado em Contos Maravilhosos, em dois níveis:
+
+- **Nível 1 — R$ 997**: acervo vitalício + trilha de implementação +
+  entregáveis prontos + comunidade. Desconto real de 59% sobre R$ 2.439.
+- **Nível 2 — R$ 1.997**: o mesmo, mais um ano de PHI ao vivo, por prazo
+  determinado. É aqui que o R$ 1.997 faz sentido — como teto, não como piso.
+- **Nível 3**: renovação antecipada para quem já é aluno do PHI.
+
+O raciocínio completo e os números estão em `06-decisao-da-oferta.md`.
+
+## As cinco perguntas em aberto
+
+1. Quantos **alunos únicos** existem (as 724 vendas têm gente repetida).
+2. Quantos alunos o PHI tem hoje, e qual o churn da assinatura.
+3. A data de fechamento do carrinho do Rei Arthur — o relógio da Black começa no dia seguinte.
+4. O Grupo VIP pode ser reeditado como order bump?
+5. O que o Robson vende para essa mesma pessoa em 2027, além do PHI.
