@@ -1,3 +1,10 @@
+> ## ⚠️ ARQUIVO SUPERADO — não use para executar
+> Esta é a **versão 1**. Foi substituída por `09-estrategia-revisada.md`,
+> revisada contra as gravações em 23/09/2026. O que mudou: um preço só no
+> pitch (o PHI virou order bump), a reabertura virou live, entraram aulas
+> extras para alunos, o Manifesto saiu de 02/11 (Finados) e a projeção de
+> faturamento ficou mais conservadora.
+
 # Black Friday 2026 — Professor Robson Cardenas
 ## Estratégia completa da campanha
 
