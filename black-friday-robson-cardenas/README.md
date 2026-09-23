@@ -29,11 +29,17 @@ O hot seat da Kalinne está na aula 01 (continuação), de 15:34 a 26:57.
 | `05-verba-metas-e-execucao.md` | Verba, benchmarks e checklist de execução. |
 | `06-decisao-da-oferta.md` | **A decisão central**, com os dados reais: os 8 debriefings, as duas pesquisas, e por que o PHI fica fora da Black. |
 | `07-precos-corrigidos-e-nivel-1.md` | Preços de tabela corrigidos, as duas âncoras, o que é o Nível 1 item por item, e o Nível 3 com as 300 famílias. **Substitui a seção de preço do arquivo 06.** |
+| **`08-estrategia-completa.md`** | **O documento operacional.** Produtos, preços, públicos, funis, calendário datado, engenharia reversa de produção, o que o Henri escreve, as frentes da Isadora, verba, metas e a lista desta semana. **É o arquivo a usar; os anteriores são o raciocínio que levou até ele.** |
 
-## As datas
+## As datas — fechadas
 
-- **17/11 (terça)** — aula magna para alunos
-- **19/11 (quinta)** — aula magna geral (é esta a data que vai em todo criativo)
+- **10/11 (terça) 20h30** — aula magna para alunos
+- **12/11 (quinta) 20h30** — aula magna geral · **é esta a data que vai em todo criativo**
+
+Dentro da janela que o Leandro nomeou ("última de outubro até a segunda de
+novembro"), em terça e quinta, com 21 dias de corredor polonês e 18 de
+captação. A reabertura cai em 26–30/11, na semana da Black do varejo, sem
+tráfego de captação — pegando o clima de compra sem pagar o leilão.
 
 ## A decisão da oferta
 
