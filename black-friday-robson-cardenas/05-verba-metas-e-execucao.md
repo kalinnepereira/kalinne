@@ -1,3 +1,17 @@
+> ## ⚠️ ARQUIVO SUPERADO — não use para executar
+>
+> Este documento é de uma versão anterior do plano e **contém datas e/ou
+> preços que foram revisados depois**. Fica no repositório apenas como
+> registro do raciocínio.
+>
+> **O documento válido é `08-estrategia-completa.md`**, e o pacote pronto
+> para uso está em `handoff/`.
+>
+> O que mudou: as aulas magnas passaram de 17 e 19/11 para **10 e 12/11**;
+> o combo deixou de incluir o PHI e passou a ser o acervo gravado em dois
+> níveis, **R$ 997 e R$ 1.997**; e a âncora do catálogo foi corrigida de
+> estimativas para os **preços de tabela reais, R$ 3.081**.
+
 # Verba, metas e checklist de execução
 
 ## Divisão de verba
