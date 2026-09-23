@@ -17,6 +17,23 @@ Grupo XFlow, a partir das 7 aulas assistidas.
 
 O hot seat da Kalinne está na aula 01 (continuação), de 15:34 a 26:57.
 
+
+## Onde ficam os arquivos
+
+**Pasta do Drive da campanha:**
+https://drive.google.com/drive/u/0/folders/1YdFwAfzSsc79cSQiM2CTgyBogbkzxnms
+
+Combinado com a Kalinne em 23/09: **todo arquivo gerado para esta campanha
+vai para essa pasta**, e o link do Drive é enviado junto.
+
+| Documento | Link |
+|---|---|
+| Estratégia completa (Google Doc, comentável) | https://docs.google.com/document/d/1q3W2mhSxav6xNcYiWleuyljfmbMAA8mR8dduFZQxwwc/edit |
+| Página operacional da campanha (artifact) | https://claude.ai/artifact/XkmnW6X7sgrMxWw3VxJ6vh |
+
+A pasta também guarda as transcrições da aula 02 do Desafio Black Friday,
+que já estavam lá.
+
 ## Handoff para outra IA
 
 A pasta **`handoff/`** tem um pacote autocontido, sem dependência do
