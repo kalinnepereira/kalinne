@@ -1,3 +1,9 @@
+> ## ⚠️ ARQUIVO SUPERADO — não use para executar
+> Esta é a **versão 2**. Foi substituída por `10-estrategia-v3.md` (detalhada)
+> e `11-resumo-direto.md` (resumo), depois da revisão da Kalinne: 3 meses de
+> PHI na oferta, order bump virou Grupo VIP, trilha/comunidade/4 PDFs cortados,
+> bônus individual e kit físico removidos, projeções refeitas.
+
 # BLACK FRIDAY 2026 — PROFESSOR ROBSON CARDENAS
 ## Estratégia completa · versão 2 · revisada contra as gravações
 
