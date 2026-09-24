@@ -525,7 +525,7 @@ antes**.
 | **10/11 e 12/11, 20h30** | **AS DUAS AULAS MAGNAS** |
 | 26/11 20h30 | Live de reabertura |
 | a partir de dez/26 | **PHI com a turma nova dentro** (3 meses) |
-| a definir | Aula extra dos 50 primeiros · sessão de boas-vindas |
+| a definir | Aula extra dos 30 primeiros · sessão de boas-vindas |
 
 ## 6.4 As seis frentes
 
