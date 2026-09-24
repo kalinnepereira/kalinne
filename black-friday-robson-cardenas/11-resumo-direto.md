@@ -1,3 +1,9 @@
+> ## ⚠️ ARQUIVO SUPERADO — não use para executar
+> Substituído por `12-estrategia-v4.md`, depois da mentoria com Leandro
+> Duarte em 24/09. Mudou: preço (R$ 1.997/R$ 997), PHI de 3 meses para 1–2
+> anos, datas (05 e 09/11), captação mais curta, carrinho sem data de fechar,
+> e o PHI custa R$ 997/ano — não R$ 1.439 como este arquivo diz.
+
 # BLACK FRIDAY 2026 — RESUMO DIRETO
 ## Professor Robson Cardenas · uma página por assunto
 
