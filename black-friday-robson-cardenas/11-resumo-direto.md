@@ -59,7 +59,9 @@ Robson há mais de 2 anos; 62% da lista do Rei Arthur o conhece há menos de 1.
 | Fecha o carrinho | 23/11 |
 | **Reabertura** (sem tráfego) | 26 – 30/11 |
 
-**Lives de terça, 20h30 (FLS):** 29/09 · 06/10 · 13/10 · 20/10 · 27/10 · 03/11 · 17/11
+**Lives de terça, 20h30 (FLS):** 29/09 · 06/10 · **13/10 (convidado)** · 20/10 ·
+**27/10 (convidado)** · 03/11 · 17/11 — nas duas com convidado o Robson entra
+só nos últimos 15 min, porque são os dias em que ele grava o dia inteiro
 **Aulas extras só para alunos (quinta 20h30):** 08/10 · 22/10
 **Live de reabertura:** 26/11 quinta 20h30
 
@@ -71,7 +73,8 @@ Robson há mais de 2 anos; 62% da lista do Rei Arthur o conhece há menos de 1.
 
 | Quando | O quê |
 |---|---|
-| Terças 20h30, de 29/09 a 17/11 | 7 lives do FLS |
+| Terças 20h30 — 29/09, 06/10, 20/10, 03/11, 17/11 | 5 lives do FLS conduzidas por ele |
+| Terças 20h30 — 13/10 e 27/10 | FLS com professor convidado — Robson só no fechamento |
 | Quintas 20h30 — 08/10 e 22/10 | 2 aulas extras só para alunos |
 | **13 e 14/10** | Gravação 1 — dia inteiro |
 | **26 e 27/10** | Gravação 2 — dia inteiro |
@@ -88,6 +91,7 @@ Robson há mais de 2 anos; 62% da lista do Rei Arthur o conhece há menos de 1.
 |---|---|
 | **25/09** | Card/motion final (2 versões) · roteiros do lote 1 do Corredor Polonês |
 | **29/09** | Reunião de concepção · começa o CP · FLS #1 |
+| **06/10** | Convite fechado com os 2 professores convidados (lives de 13/10 e 27/10) |
 | **09/10** | Roteiro do Trailer, dos 15 criativos de captação e do Pronunciamento |
 | **13–14/10** | Gravação 1 |
 | **20/10** | Trailer no ar, revelando 12/11 |
@@ -110,7 +114,7 @@ Regra de ouro: **tráfego recebe criativo 2 dias antes de subir.** Sempre.
 | Frente | Entrega |
 |---|---|
 | **Produto** | 1 PDF (Plano de Leitura por Idade) · área de membros unificada · entrada da turma nova no PHI |
-| **Conteúdo** | Agenda do Robson · 2 sessões de gravação · coleta de depoimentos |
+| **Conteúdo** | Agenda do Robson · 2 sessões de gravação · coleta de depoimentos · convidar e briefar 2 professores do Centro |
 | **Copy (Henri)** | 13 peças — card, 20 roteiros de CP, trailer, 15 criativos, pronunciamento, páginas, manifesto, sequências, script da aula magna |
 | **Design** | Cards · páginas · PDF · capas de grupo · identidade |
 | **Tráfego** | Públicos e exclusões · campanhas · planilha diária |
@@ -208,8 +212,8 @@ oferta · promessa na condição, não na transformação · justificar o descon
 - [ ] Custo por disparo de API ← o maior buraco do orçamento
 - [ ] Quantos alunos únicos existem
 - [ ] Quando caem as renovações das 300 famílias
-- [ ] O que é o Grupo VIP (R$ 114, 99 vendas em 2025, 16% de ascensão) — **não
-      trava a Black**, mas se for bom vira low ticket do corredor polonês
+- [ ] Quanto custava o Grupo VIP — Alexia diz R$ 29,90, o debriefing implica
+      R$ 114. Não afeta a Black
 - [ ] 2ª BM e 2º número de API
 
 ---
@@ -221,3 +225,23 @@ oferta · promessa na condição, não na transformação · justificar o descon
 3. **O Robson não gravar o volume** — pedir 3× o necessário.
 4. **Expectativa alta demais** — nenhum lançamento em 2026, conversão em queda.
    A média histórica é R$ 44 mil por lançamento.
+
+---
+
+# O QUE ERA O GRUPO VIP — resolvido
+
+**Era ingresso de lançamento pago.** Nos lançamentos gratuitos de 3 dias, as
+aulas da noite com o Robson eram abertas; quem pagava o VIP levava as **aulas
+diurnas com os outros professores do Centro**, as gravações delas e uma condição
+melhor no curso no fim. (Fonte: Alexia, 24/09/2026.)
+
+**Duas consequências:**
+
+1. **Os 99 compradores de VIP são alunos** e levam R$ 697 — regra literal do
+   Leandro sobre ingresso de lançamento pago.
+2. **Não entra nesta Black.** Um ingresso barato que dá condição de aluno seria
+   vender R$ 300 de desconto por R$ 29,90 — R$ 27 mil a menos no cenário base. E
+   a Black não tem evento de conteúdo para vender ingresso: tem um pitch.
+
+**O que aproveitamos:** os outros professores, nas lives de 13/10 e 27/10.
+**O que guardamos:** o modelo do VIP para o próximo lançamento gratuito, em 2027.

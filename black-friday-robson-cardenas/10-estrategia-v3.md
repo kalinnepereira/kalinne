@@ -283,14 +283,14 @@ Corredor Polonês (21 dias) → Trailer Hollywood (6 dias) → Captação (18 di
 
 | # | Data | Momento |
 |---|---|---|
-| 1 | 29/09 | abre o corredor polonês |
-| 2 | 06/10 | |
-| 3 | 13/10 | |
-| 4 | 20/10 | dia do trailer |
-| 5 | 27/10 | captação aberta |
-| 6 | 03/11 | última antes da aula magna · sobe o Manifesto |
-| 7 | 17/11 | live de carrinho aberto |
-| 8 | 26/11 *(quinta)* | live de reabertura |
+| 1 | 29/09 | **Robson** — abre o corredor polonês |
+| 2 | 06/10 | **Robson** |
+| 3 | 13/10 | **PROFESSOR CONVIDADO** + Robson no fechamento — ele grava o dia inteiro |
+| 4 | 20/10 | **Robson** — dia do trailer |
+| 5 | 27/10 | **PROFESSOR CONVIDADO** + Robson no fechamento — ele grava o dia inteiro |
+| 6 | 03/11 | **Robson** — última antes da aula magna · sobe o Manifesto |
+| 7 | 17/11 | **Robson** — live de carrinho aberto |
+| 8 | 26/11 *(quinta)* | **Robson** — live de reabertura |
 
 Regras: 1h30 a 2h de conteúdo quente, sem medo de entregar demais · roteiro fixo
 **promessa → história → conteúdo → antecipação → convite** · sem pitch agressivo
@@ -303,6 +303,28 @@ Hack: live secundária no Instagram, patrocinada, filmando o Zoom, com automaç�
 **O ganho escondido:** a aula magna de alunos é **terça 10/11**, no mesmo horário
 do FLS. Seis semanas treinando a audiência a aparecer terça à noite, e a aula
 magna cai num compromisso que ela já tem.
+
+### Duas lives com professor convidado — 13/10 e 27/10
+
+**Por quê:** o Centro tem outros professores, e **99 pessoas já pagaram para
+assistir às aulas deles** no lançamento de Contos 2025 (era isso o Grupo VIP —
+ver Anexo C). É demanda validada por um ativo que não estava em lugar nenhum
+do plano.
+
+**As duas datas não foram escolhidas por gosto.** São exatamente os dias em que
+o Robson grava o dia inteiro: **13/10** (sessão 1) e **27/10** (sessão 2). Sem
+convidado, ele sai de uma diária de gravação direto para uma live de 1h30.
+
+**Como funciona:** o convidado conduz o conteúdo; **o Robson entra nos últimos
+10 a 15 minutos** para o gancho da Black. A captação, o grupo e o card final não
+mudam — muda só quem apresenta.
+
+**O ganho extra:** *"o tema decide o comparecimento"* — professor convidado é
+pauta nova, e comparecimento é o gargalo do FLS.
+
+**O limite:** só duas das oito. A Black vende o acervo do Robson, e é a
+reciprocidade com ele que sustenta o pitch. As lives de abertura, do trailer, da
+véspera da aula magna, do carrinho e da reabertura são dele, sem exceção.
 
 ## 4.3 Aulas extras ao vivo só para alunos
 
@@ -516,7 +538,8 @@ antes**.
 
 | Quando | O quê |
 |---|---|
-| **Terças 20h30** — 29/09, 06/10, 13/10, 20/10, 27/10, 03/11, 17/11 | FLS (7 lives) |
+| **Terças 20h30** — 29/09, 06/10, 20/10, 03/11, 17/11 | FLS conduzido por ele (5 lives) |
+| **Terças 20h30** — 13/10 e 27/10 | FLS com convidado — **Robson só nos últimos 15 min** |
 | **Quintas 20h30** — 08/10, 22/10 | Aulas extras de aluno |
 | **13 e 14/10** | Gravação 1 (dia inteiro) |
 | **26 e 27/10** | Gravação 2 (dia inteiro) |
@@ -532,7 +555,7 @@ antes**.
 | Frente | O que entrega | Deadline crítico |
 |---|---|---|
 | **Produto** | **1 PDF** (Plano de Leitura por Idade) · área de membros unificada do acervo · entrada da turma nova no PHI | PDF 07/11 · área de membros 07/11 |
-| **Conteúdo** | Agenda do Robson · 2 sessões de gravação · coleta de depoimentos | gravações 13–14/10 e 26–27/10 |
+| **Conteúdo** | Agenda do Robson · 2 sessões de gravação · coleta de depoimentos · **convidar e briefar 2 professores do Centro** (FLS de 13/10 e 27/10) | convites até **06/10** · gravações 13–14/10 e 26–27/10 |
 | **Copy** | As 13 peças do Henri | trailer 09/10 · aula magna 03/11 |
 | **Design** | Cards finais (2 versões) · páginas · 1 PDF · capas de grupo · identidade | **cards 25/09** · páginas 24/10 |
 | **Tráfego** | Públicos e exclusões · campanhas de CP, trailer, captação, FLS, jato, carrinho · **planilha diária** | criativo sempre 2 dias antes |
@@ -820,10 +843,9 @@ O corredor polonês começa **terça 29/09**.
       março, dá para calibrar os 3 meses e ter **uma campanha de renovação por
       ano** em vez de duas espalhadas
 - [ ] **Preço de tabela de cada curso restante do acervo**
-- [ ] **O que é o Grupo VIP?** Produto de R$ 114 que vendeu 99 unidades em 2025 com
-      16% de ascensão para o curso. Ninguém hoje sabe descrever o conteúdo. **Não
-      trava a Black** — mas se for bom, vira low ticket do corredor polonês e
-      volta como bump
+- [ ] **Quanto custava o Grupo VIP?** A Alexia diz R$ 29,90; o debriefing de 2025
+      implica R$ 114 (99 vendas, R$ 11.294,12). Provavelmente o preço subiu entre
+      lançamentos. **Não afeta a Black** — ver Anexo C
 - [ ] **2ª BM e 2º número de API** em processo de aprovação
 
 ---
@@ -915,3 +937,59 @@ Confira antes de cada entrega. Nenhum está no plano hoje.
 8. Matar a esteira com um vitalício sem próximo passo
 9. Não rodar pesquisa
 10. Tratar a Black como um lançamento comum
+
+---
+
+# ANEXO C — o que era o Grupo VIP
+
+Registrado porque a equipe inteira tinha dúvida, e porque a resposta mudou uma
+decisão. Fonte: Alexia, em áudio de 24/09/2026.
+
+> "Todos os nossos lançamentos foram gratuitos. Porém, a gente usou meio que **a
+> mistura da estratégia do lançamento pago** para fazer o grupo VIP."
+
+> "O primeiro Contos Maravilhosos a gente fez segunda, terça e quarta. […] terça
+> e quarta tinha uma aula de manhã, uma à tarde e uma à noite. […] Aí envolvia
+> **outros professores do centro**."
+
+> "**O lançamento gratuito são as aulas da noite**, que são as principais, com o
+> professor Robson. E as aulas que aconteceriam durante o dia, com outros
+> professores — **quem tivesse interesse teria que fazer parte do grupo VIP**."
+
+> "A gente mandava o link num **valor simbólico de R$ 29,90** e eles teriam, além
+> dessas aulas que acontecem durante o dia e a gravação delas, **acesso a uma
+> condição diferenciada dos outros alunos — desconta mais** e às vezes algum
+> bônus, para eles que **se anteciparam no interesse**."
+
+**Portanto: é ingresso de lançamento pago.** Não é curso nem acompanhamento.
+
+## O que isso resolve
+
+**1. Os 99 compradores de VIP são alunos e levam R$ 697.** Regra literal do
+Leandro: *"entra nesse bolo ingressos vendidos de lançamento pago. Pra todo mundo
+que comprou um ingresso de um lançamento pago meu, o cara ficou durante oito
+horas tendo tempo de tela comigo. Como que eu vou deixar esse cara de fora?"*
+
+**2. Por que o VIP NÃO entra nesta Black.** Vender um ingresso barato que dá
+"condição diferenciada" seria vender desconto:
+
+| | |
+|---|---|
+| Não aluno paga | R$ 997 |
+| Não aluno que compra o VIP e vira aluno | R$ 29,90 + R$ 697 = R$ 726,90 |
+| **Perda por venda** | **R$ 270** |
+
+No cenário base, 100 vendas, são **R$ 27 mil a menos**. Mesmo a R$ 114 a perda é
+de R$ 18,6 mil. E estruturalmente: o VIP dava acesso a **conteúdo extra durante
+um evento gratuito de 3 dias**. A Black não tem evento de conteúdo — tem um
+pitch, e cobrar ingresso para assistir a pitch derruba o comparecimento do dia em
+que acontecem 70% das vendas.
+
+**A Black já é o Grupo VIP, em escala maior:** "condição diferenciada para quem
+se antecipou no interesse" é exatamente o R$ 697 do aluno.
+
+**3. O que aproveitamos:** os outros professores do Centro, nas lives de 13/10 e
+27/10 (ver 4.2).
+
+**4. Guardar para 2027:** o modelo do VIP funciona no próximo lançamento
+gratuito — noites com o Robson de graça, dia com os outros professores pago.
