@@ -15,7 +15,7 @@
 | **Plano de Leitura por Idade** (PDF) | **Vitalício** |
 | Suporte | 24 meses |
 
-**Order bump no checkout:** Grupo VIP · + R$ 97
+**Sem order bump.** Um preço, sem caixinha no checkout.
 
 **Fora da oferta:** PHI vitalício, mentoria individual, presenciais, simpósios,
 pós-graduação, produto físico. É a esteira de 2027.
@@ -27,7 +27,7 @@ pós-graduação, produto físico. É a esteira de 2027.
 | Público | Preço | Data da aula magna |
 |---|---|---|
 | **Alunos** — quem já comprou qualquer coisa | **R$ 697** · 12× R$ 69,70 | **10/11 terça 20h30** |
-| **300 famílias do PHI** — mesmo preço, com o Grupo VIP incluído | **R$ 697** | **10/11 terça 20h30** |
+| **300 famílias do PHI** — mesmo preço, com uma sessão exclusiva ao vivo | **R$ 697** | **10/11 terça 20h30** |
 | **Não alunos** — 16 mil leads, seguidores, demanda reprimida | **R$ 997** · 12× R$ 99,70 | **12/11 quinta 20h30** |
 
 **R$ 997 = 68% de desconto** sobre a tabela do acervo (R$ 3.081).
@@ -114,7 +114,7 @@ Regra de ouro: **tráfego recebe criativo 2 dias antes de subir.** Sempre.
 | **Copy (Henri)** | 13 peças — card, 20 roteiros de CP, trailer, 15 criativos, pronunciamento, páginas, manifesto, sequências, script da aula magna |
 | **Design** | Cards · páginas · PDF · capas de grupo · identidade |
 | **Tráfego** | Públicos e exclusões · campanhas · planilha diária |
-| **Tech** | Checkout + order bump do VIP · 2ª BM e 2º número de API · grupos · automações |
+| **Tech** | Checkout (sem order bump) · 2ª BM e 2º número de API · grupos · automações |
 | **Comercial** | Relacionamento antes da abertura · boleto → abandono → cancelamento → MQL. Começa 09/11 |
 
 ---
@@ -132,11 +132,11 @@ campanha jato 5% · carrinho 5%.
 | Leads na Black geral | **4.000** |
 | CPL teto | **R$ 6,00** — passou disso, corta verba |
 | Conversão | 2,5% a 3,0% |
-| Ticket médio | ~R$ 1.026 |
+| Ticket médio | R$ 997 (não aluno) · R$ 697 (aluno) |
 | Vendas no dia 1 | 70%+ |
 
-**Cenários da Black geral:** conservador R$ 61.560 · **base R$ 102.600** ·
-bom R$ 138.510. A Black de alunos entra por cima (~R$ 41.820 só do PHI).
+**Cenários da Black geral:** conservador R$ 59.820 · **base R$ 99.700** ·
+bom R$ 134.595. A Black de alunos entra por cima (~R$ 41.820 só do PHI).
 
 **Planeje o caixa pelo piso de R$ 48–60 mil** (ROAS 4 a 5, que é a média
 declarada pelo time do Ferrari). Comemore o resto.
@@ -153,10 +153,13 @@ novo**. É por isso que os 3 meses existem.
 
 | Gatilho | Bônus |
 |---|---|
-| 30 primeiros | Grupo VIP incluído |
-| 50 primeiros | Aula ao vivo extra em grupo com o Robson |
+| 30 primeiros | Aula ao vivo extra em grupo com o Robson |
 | Quem está ao vivo | Bônus anunciado só na live |
-| Até 23h59 do dia 1 | Sessão de boas-vindas ao vivo |
+| Até 23h59 do dia 1 | Sessão de boas-vindas ao vivo — como navegar o acervo e por onde começar |
+
+Os degraus que faltam saem da reunião de 29/09, quando o Robson disser o que
+tem em mãos. Critério: existe, dá para explicar em uma frase, e não tem
+logística nem custo por aluno.
 
 **Vira lote cortando bônus, nunca subindo preço.** E vira quando a venda cai,
 não em data marcada.
@@ -191,7 +194,6 @@ oferta · promessa na condição, não na transformação · justificar o descon
 
 **Trava a oferta:**
 - [ ] O Robson topa abrir o PHI para ~120 famílias novas por 3 meses?
-- [ ] Preço real do Grupo VIP e se pode ser reeditado
 
 **Não pode escorregar:**
 - [ ] Reunião de concepção em 29/09
@@ -206,7 +208,8 @@ oferta · promessa na condição, não na transformação · justificar o descon
 - [ ] Custo por disparo de API ← o maior buraco do orçamento
 - [ ] Quantos alunos únicos existem
 - [ ] Quando caem as renovações das 300 famílias
-- [ ] Se o checkout suporta order bump
+- [ ] O que é o Grupo VIP (R$ 114, 99 vendas em 2025, 16% de ascensão) — **não
+      trava a Black**, mas se for bom vira low ticket do corredor polonês
 - [ ] 2ª BM e 2º número de API
 
 ---

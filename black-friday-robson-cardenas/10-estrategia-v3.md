@@ -6,9 +6,12 @@ Metodologia: Leandro Ferrari / Grupo XFlow
 
 > **O que mudou da v2 para cá**, depois da revisão da Kalinne:
 > um preço só na live com **3 meses de PHI incluídos para todo mundo** ·
-> o order bump virou o **Grupo VIP** (item leve, não o PHI de R$ 1.000) ·
+> o PHI saiu do order bump ·
 > **trilha de 8 semanas e comunidade saíram** · dos 5 PDFs sobrou **1** ·
 > bônus de encontro individual e kit físico **saíram** · projeções refeitas.
+>
+> **Correção posterior:** o Grupo VIP saiu da oferta — ninguém na equipe sabe
+> descrever o que ele entrega. Sem order bump. Ticket médio volta a R$ 997.
 
 ---
 
@@ -150,25 +153,24 @@ Sem escadinha.
   *"O objetivo dele é o lead não saber que ele está ativo"* — pega quem não tem
   limite no cartão. — João Matheus
 
-## 2.4 O order bump — Grupo VIP
+## 2.4 Sem order bump
 
-No checkout, uma caixinha:
+**Não haverá caixinha no checkout.** Uma pessoa compra R$ 997 (ou R$ 697) e
+pronto.
 
-> ☐ **Quero o Grupo VIP — acompanhamento em grupo durante o acervo · + R$ 97**
+A v3 previa o Grupo VIP como bump. Ele saiu por um motivo simples: **ninguém na
+equipe hoje sabe descrever o que o produto entrega.** O debriefing de 2025
+registra que ele existe, quanto vendeu e que tem conteúdo na área de membros —
+mas não o que tem dentro. Sem descrição não há copy, e uma caixinha que o lead
+não entende é exatamente o empilhamento sem valor que eles chamam de
+**"Black Fraude"**.
 
-**Por que o VIP e não o PHI.** Order bump é item de baixo atrito: 10% a 30% do
-carrinho. R$ 97 sobre R$ 997 é 10%. Um bump de R$ 1.000 sobre um carrinho de
-R$ 997 não é bump, é uma segunda decisão de compra no meio do caminho.
+Nada na metodologia exige um order bump em Black Friday. A única menção a bump
+nas sete gravações é do João Matheus, e sobre funil de low ticket. O impacto no
+resultado é pequeno: o ticket médio cai de R$ 1.026 para R$ 997 — menos de 3%.
 
-E há um ganho de ancoragem: o PHI **nunca aparece com preço** em lugar nenhum da
-campanha. Ele custa R$ 1.439/ano e continua custando. Colocar R$ 1.000 na tela
-quebraria a âncora do único produto recorrente do negócio.
-
-O VIP é dinheiro já provado: em Contos 2025 vendeu **99 unidades contra 41
-cursos** e fez **28% do faturamento** — e não estava em projeção nenhuma.
-
-> ⚠️ **R$ 97 é estimativa** derivada do debriefing de 2025. Confirmar o preço
-> real e se o produto pode ser reeditado.
+> **Se descobrirmos o que é o Grupo VIP a tempo**, ele volta em um dia: é
+> configurar a caixinha e escrever uma linha de copy. Enquanto isso, não entra.
 
 ## 2.5 Por que 3 meses de PHI não fere nenhuma regra
 
@@ -188,22 +190,20 @@ que pra esses caras."* A conta do caso mais apertado:
 
 | | Paga | Leva |
 |---|---|---|
-| Comprou PHI em setembro + Black | R$ 1.439 + R$ 697 = **R$ 2.136** | Acervo + **15 meses** de PHI + **Grupo VIP incluído** |
+| Comprou PHI em setembro + Black | R$ 1.439 + R$ 697 = **R$ 2.136** | Acervo + **15 meses** de PHI + **sessão exclusiva ao vivo** |
 | Aluno de curso, só a Black | **R$ 697** | Acervo + **3 meses** de PHI |
 | Não aluno | **R$ 997** | Acervo + **3 meses** de PHI |
 
 A família do PHI pagou R$ 1.439 a mais por 12 meses a mais = **R$ 119,92/mês,
-exatamente o preço de tabela** — e leva o Grupo VIP por cima. Fica à frente.
+exatamente o preço de tabela** — e leva a sessão exclusiva por cima. Fica à frente.
 Contra o não aluno, a margem é folgada: R$ 94,92/mês.
 
 **A regra derivada, para não errar se os meses mudarem:** se os compradores
 novos levam **M** meses de PHI e as famílias antigas recebem **B** meses de
 bônus, é preciso que **B > M**. Como aqui B = 0 e M = 3, o equilíbrio é feito
-pelo Grupo VIP, que custa zero e **não adia nenhum centavo de renovação** — que
+por uma **sessão exclusiva ao vivo do Robson só para elas**, que custa uma hora
+e **não adia nenhum centavo de renovação** — que
 era o problema de dar meses extras (+6 meses adiariam ~R$ 43 mil de recorrente).
-
-*Alternativa, se você preferir: uma sessão exclusiva ao vivo do Robson só para
-as 300 famílias, em vez do VIP. Mesmo efeito, mesmo custo (uma hora).*
 
 ## 2.6 O tsunami — a escada de bônus do dia 1
 
@@ -212,10 +212,15 @@ as 300 famílias, em vez do VIP. Mesmo efeito, mesmo custo (uma hora).*
 
 | Gatilho | Bônus |
 |---|---|
-| 30 primeiros | **Grupo VIP incluído** — o próprio order bump, de graça |
-| 50 primeiros | **Aula ao vivo extra em grupo** com o Robson |
+| 30 primeiros | **Aula ao vivo extra em grupo** com o Robson |
 | Quem está ao vivo | Bônus anunciado só na live |
-| Até 23h59 do dia 1 | **Sessão de boas-vindas ao vivo**, em grupo |
+| Até 23h59 do dia 1 | **Sessão de boas-vindas ao vivo** — como navegar o acervo e por onde começar |
+
+> A escada está mais fina do que o padrão deles (5, 10, 30, 50 primeiros) porque
+> todo degrau precisa ser algo que **existe e que dá para explicar em uma frase**.
+> Os degraus que faltam saem da reunião de concepção de 29/09, quando o Robson
+> disser o que ele tem em mãos. Critério: sem logística, sem custo por aluno,
+> sem hora individual.
 
 **Três regras que guiaram essa escada:**
 
@@ -240,7 +245,7 @@ físico, e o **PHI vitalício**. É a esteira de 2027.
 | | Público | Quem é | Tamanho | Preço | Canal | Data |
 |---|---|---|---|---|---|---|
 | **A** | **Alunos** | Quem comprou qualquer coisa: curso, low ticket, Grupo VIP, ingresso de lançamento pago | 724 compras + 99 VIP *(pessoas únicas a levantar)* | **R$ 697** | API oficial, e-mail, área de membros, comunidade, grupo + tráfego com exclusão | **10/11 terça** |
-| **B** | **300 famílias do PHI** | Mesmo preço do A, **com o Grupo VIP incluído** | 300 | **R$ 697** | API + comunidade do PHI | **10/11 terça** |
+| **B** | **300 famílias do PHI** | Mesmo preço do A, **com uma sessão exclusiva ao vivo** | 300 | **R$ 697** | API + comunidade do PHI | **10/11 terça** |
 | **C** | **Não alunos** | 16 mil leads antigos, seguidores, engajamento, listas de lançamentos passados, demanda reprimida | 16 mil + captação | **R$ 997** | Tráfego 100% quente + orgânico + grupos antigos + API | **12/11 quinta** |
 
 ## Três regras que não se negociam
@@ -414,7 +419,7 @@ feriado**."* Para uma audiência católica, vale em dobro.
 |---|---|
 | **27/10 terça** | **ABRE CAPTAÇÃO INTERNA.** API oficial de **marketing** (nunca utilidade), e-mail, área de membros, comunidade, grupo |
 | 27/10 | Criativo exclusivo de aluno, com exclusão de público |
-| 27/10 | **Comunicação separada para as 300 famílias do PHI**, com o Grupo VIP |
+| 27/10 | **Comunicação separada para as 300 famílias do PHI**, com a sessão exclusiva |
 | 27/10 a 10/11 | Até 3 ligações + SMS de reforço |
 
 > "**Disparar utilidade nessa época do ano você vai se foder, vai perder sua
@@ -531,7 +536,7 @@ antes**.
 | **Copy** | As 13 peças do Henri | trailer 09/10 · aula magna 03/11 |
 | **Design** | Cards finais (2 versões) · páginas · 1 PDF · capas de grupo · identidade | **cards 25/09** · páginas 24/10 |
 | **Tráfego** | Públicos e exclusões · campanhas de CP, trailer, captação, FLS, jato, carrinho · **planilha diária** | criativo sempre 2 dias antes |
-| **Tech** | Checkout + **order bump do Grupo VIP** · **2ª BM e 2º número de API** · grupos de WhatsApp · automações · área de membros | **API backup 22/10** · **checkout testado com compra real 09/11** |
+| **Tech** | Checkout (sem order bump) · **2ª BM e 2º número de API** · grupos de WhatsApp · automações · área de membros | **API backup 22/10** · **checkout testado com compra real 09/11** |
 | **Comercial** | Relacionamento **antes** da abertura · fila boleto → abandono → cancelamento → MQL | começa **09/11** |
 
 > A frente de Produto encolheu de propósito. Na v2 eram 5 PDFs, uma trilha de 8
@@ -603,7 +608,7 @@ pessoa toda semana, não mais um arquivo para ela abrir sozinha.
 | 8 | Sequência de API + e-mail de captação | 20/10 | **Versão aluno, versão PHI e versão geral** |
 | 9 | Sequência de comparecimento | 30/10 | Fugir do "faltam 3 dias" |
 | 10 | **Script da aula magna** | **03/11** | Estrutura em 7.10 |
-| 11 | Copy da página de vendas + **texto do order bump do VIP** | 04/11 | |
+| 11 | Copy da página de vendas | 04/11 | |
 | 12 | Sequência de carrinho aberto | 06/11 | API, e-mail, stories — diária |
 | 13 | Sequência de fechamento e reabertura | 13/11 | 3 etapas + justificativa |
 
@@ -725,16 +730,7 @@ onde mais converte."* — Henrique
 
 ## 8.4 Ticket médio
 
-Com o bump do Grupo VIP a R$ 97:
-
-| Adesão ao VIP | Ticket médio (não aluno) |
-|---|---|
-| 20% | R$ 1.016 |
-| **30%** (base) | **R$ 1.026** |
-| 40% | R$ 1.036 |
-
-Adotei 30%. Em 2025 o VIP teve adesão altíssima (99 contra 41 cursos), mas ali
-ele era vendido também fora do checkout — prefiro errar para baixo.
+**R$ 997** para não alunos e **R$ 697** para alunos. Sem bump, sem variação.
 
 ## 8.5 Cenários — e os dois pisos
 
@@ -742,9 +738,9 @@ ele era vendido também fora do checkout — prefiro errar para baixo.
 
 | Cenário | Leads | Conv. | Vendas | Ticket | Black geral |
 |---|---|---|---|---|---|
-| Conservador | 3.000 | 2,0% | 60 | 1.026 | **R$ 61.560** |
-| **Base** | **4.000** | **2,5%** | **100** | **1.026** | **R$ 102.600** |
-| Bom | 4.500 | 3,0% | 135 | 1.026 | **R$ 138.510** |
+| Conservador | 3.000 | 2,0% | 60 | 997 | **R$ 59.820** |
+| **Base** | **4.000** | **2,5%** | **100** | **997** | **R$ 99.700** |
+| Bom | 4.500 | 3,0% | 135 | 997 | **R$ 134.595** |
 
 *Os lançamentos de 2025 fizeram 1,95% e 2,01% a preço cheio. Leandro diz que na
 Black a conversão dobra — 2,5% a 3,0% é conservador pela régua deles.*
@@ -808,7 +804,6 @@ O corredor polonês começa **terça 29/09**.
 - [ ] **Reunião de concepção marcada para 29/09**, time inteiro
 - [ ] **O Robson topa abrir o PHI para ~120 famílias novas por 3 meses?**
       Não é custo — é dinâmica de sala. Sai de 300 para ~420. **Trava a oferta**
-- [ ] **Confirmar o Grupo VIP:** preço real e se pode ser reeditado
 - [ ] **Bloquear a agenda do Robson** (lista em 6.3)
 - [ ] **Selecionar os 7 conteúdos orgânicos que mais performaram** para o lote 1
 - [ ] **Design do card/motion final**, 2 versões (sem data e com data)
@@ -825,7 +820,10 @@ O corredor polonês começa **terça 29/09**.
       março, dá para calibrar os 3 meses e ter **uma campanha de renovação por
       ano** em vez de duas espalhadas
 - [ ] **Preço de tabela de cada curso restante do acervo**
-- [ ] **O checkout suporta order bump?** E upsell pós-compra?
+- [ ] **O que é o Grupo VIP?** Produto de R$ 114 que vendeu 99 unidades em 2025 com
+      16% de ascensão para o curso. Ninguém hoje sabe descrever o conteúdo. **Não
+      trava a Black** — mas se for bom, vira low ticket do corredor polonês e
+      volta como bump
 - [ ] **2ª BM e 2º número de API** em processo de aprovação
 
 ---
@@ -869,7 +867,7 @@ Os 15 dias de captação de alunos, esses, são o ideal declarado — sem exceç
 | Black vende para base antiga, não capta frio | Leandro: *"um lead frio não vai comprar TV nessa Black Friday"* · *"mais de 90% eram leads quentes barra alunos"* |
 | Combo ancorado num produto principal | Henrique: *"a melhor Black Friday pra nós é sobre combo… sempre ancorava no produto principal"* |
 | Um preço só no pitch | **Ausência:** nenhuma gravação menciona faixas de preço |
-| **Order bump leve, não o PHI** | **Não há prescrição deles sobre bump em Black.** A única menção (João Matheus, *"a partir do order bump você começa a fazer ticket médio"*) é sobre funil de low ticket. A decisão vem da prática de mercado: bump é 10–30% do carrinho |
+| **Sem order bump** | **Não há prescrição deles sobre bump em Black.** A única menção (João Matheus) é sobre funil de low ticket. Retiramos o Grupo VIP porque a equipe não sabe descrever o produto — e oferta que não se explica é "Black Fraude" |
 | Piso de preço = ticket de lançamento | Henrique: *"buscar pelo menos o mesmo ticket do lançamento"* |
 | Teto de preço = credibilidade | Leandro: *"não achem que os leads de vocês são otários"* |
 | Não absorver juros | Henrique, duas vezes |
