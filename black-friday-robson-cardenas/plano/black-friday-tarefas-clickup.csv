@@ -1,0 +1,132 @@
+﻿ID;Lista;Tarefa;Descrição;Responsável;Data de início;Data de entrega;Revisão Kalinne até;Depende de;Prioridade
+F0.1;0. Decisões e dados;Levantar o preço de tabela dos 11 cursos (nome oficial + valor cheio de cada um);BLOQUEIA a oferta, a página de vendas, o pitch e a escada de anos. Item nº 1 do plano.;Isadora;25/09/2026;28/09/2026;28/09/2026;;Urgente
+F0.2;0. Decisões e dados;Exportar as 3 listas sem sobreposição: (a) anuidade PHI ativa, (b) mensalistas PHI ativos, (c) compradores de cursos sem PHI;Regra: vínculo mais profundo com o PHI ganha. Uma pessoa não pode aparecer em duas listas.;Hugo;25/09/2026;30/09/2026;30/09/2026;;Urgente
+F0.3;0. Decisões e dados;Contar mensalistas ativos do PHI e informar o número;Maior alavanca de receita não dimensionada da campanha.;Hugo;25/09/2026;28/09/2026;28/09/2026;;Urgente
+F0.4;0. Decisões e dados;Levantar o custo de disparo por API (por mensagem e por lista);Define se a operação de alunos cabe no orçamento.;Hugo;25/09/2026;30/09/2026;30/09/2026;;Alta
+F0.5;0. Decisões e dados;Confirmar com o Robson: 1 ano de PHI em todas as ofertas e 2 anos só para a turma de setembro;;Kalinne;25/09/2026;28/09/2026;;;Urgente
+F0.6;0. Decisões e dados;Decidir se a camiseta da Black fica ou sai do escopo;Se ficar, a arte precisa estar pronta em 07/10 para dar tempo de produção física.;Kalinne;25/09/2026;29/09/2026;;;Alta
+F0.7;0. Decisões e dados;Reunião de concepção com o time inteiro;Fecha oferta, preços, verba, responsáveis e o calendário de gravações.;Isadora;29/09/2026;29/09/2026;;F0.1;Urgente
+F0.8;0. Decisões e dados;Definir o escopo do Agente de IA (o que ele responde, com base em quê, como o comprador acessa);Sem escopo fechado o Hugo não começa. É o entregável mais arriscado do plano.;Kalinne;29/09/2026;02/10/2026;;F0.7;Alta
+F0.9;0. Decisões e dados;Definir o bônus dos 30 primeiros (hoje está A DEFINIR no documento);Precisa entrar no roteiro do trailer e nos criativos de captação.;Kalinne;29/09/2026;09/10/2026;;F0.7;Alta
+F0.10;0. Decisões e dados;Montar a escada de anos com os números reais (2, 3 e 5 anos);Entra na página de vendas e no pitch da aula magna.;Kalinne + Henri;29/09/2026;01/10/2026;02/10/2026;F0.1;Urgente
+F0.11;0. Decisões e dados;Definir a regra de cancelamento da recorrência mensal no checkout do grupo 2;Se falhar, o mensalista é cobrado duas vezes: perde-se o cliente e ganha-se um reembolso.;Hugo;01/10/2026;07/10/2026;07/10/2026;F0.2;Alta
+F0.12;0. Decisões e dados;Bloquear a agenda do Robson até dezembro (FLS, aulas extras, 2 gravações, ensaio, 2 aulas magnas);;Isadora;25/09/2026;29/09/2026;;;Urgente
+F1.1;1. Identidade visual da Black;Briefing de identidade da Black: tom, referências, o que NÃO pode parecer;A Black é de literatura clássica para pais católicos — não pode virar varejo genérico.;Kalinne;25/09/2026;28/09/2026;;;Urgente
+F1.2;1. Identidade visual da Black;Logo/selo da Black Friday Robson Cardenas — 3 propostas;BLOQUEIA todo o design: criativos, páginas, cards, banner dos cortes, camiseta.;Maytte;29/09/2026;01/10/2026;02/10/2026;F1.1;Urgente
+F1.3;1. Identidade visual da Black;Paleta, tipografia e regras de aplicação;;Maytte;29/09/2026;01/10/2026;02/10/2026;F1.1;Urgente
+F1.4;1. Identidade visual da Black;Banner de encerramento dos cortes (o selo que fecha cada vídeo da linha editorial);Entra nos cortes a partir de 07/10. Os cortes da 1ª semana sobem sem banner — fase 1 não tem CTA mesmo.;Maytte;05/10/2026;05/10/2026;05/10/2026;F1.2;Alta
+F1.5;1. Identidade visual da Black;Kit de templates: story, feed, thumb do YouTube, capa de grupo, moldura de corte;Sem o kit, cada peça vira trabalho do zero.;Maytte;05/10/2026;07/10/2026;07/10/2026;F1.2;Alta
+F1.6;1. Identidade visual da Black;Arte da camiseta da Black;Só se a camiseta ficar no escopo.;Maytte;05/10/2026;07/10/2026;07/10/2026;F1.2 · F0.6;Normal
+F1.7;1. Identidade visual da Black;Encomendar a camiseta da Black (produção física);Prazo de gráfica + entrega. Robson usa em todo story a partir de 20/10.;Isadora;08/10/2026;09/10/2026;;F1.6;Normal
+F2.1;2. Copy — Henri;Mensagem de agradecimento + promessa à turma de setembro (sem preço, sem data);"Dispara 28/09 junto com o fechamento do carrinho do PHI. Mata por 6 semanas o medo de ""comprei cedo e me ferrei"".";Henri;25/09/2026;25/09/2026;25/09/2026;;Urgente
+F2.2;2. Copy — Henri;Roteiros do Corredor Polonês fase 1 — lote 1 (3 peças, semana de 29/09);SEM CTA. Entrega solução de verdade. Vídeos de até 3 minutos.;Henri;25/09/2026;28/09/2026;28/09/2026;;Urgente
+F2.3;2. Copy — Henri;Roteiros fase 1 — lote 2 (5 peças, semana de 05/10);;Henri;29/09/2026;01/10/2026;02/10/2026;F2.2;Alta
+F2.4;2. Copy — Henri;Roteiros fase 1 — lote 3 (5 peças, semana de 13/10);;Nayara + Henri;05/10/2026;08/10/2026;09/10/2026;F2.3;Alta
+F2.5;2. Copy — Henri;Roteiros fase 1 — lote 4 (5 peças, semana de 19/10);;Nayara + Henri;12/10/2026;15/10/2026;16/10/2026;F2.4;Alta
+F2.6;2. Copy — Henri;Roteiro do Trailer Hollywood (revela 09/11);Grava em 13-14/10, sobe 20/10. É a peça que abre a campanha.;Henri;05/10/2026;07/10/2026;08/10/2026;F0.7;Urgente
+F2.7;2. Copy — Henri;Roteiro do Pronunciamento Oficial;Grava em 13-14/10, sobe 28/10.;Henri;05/10/2026;09/10/2026;09/10/2026;F0.7;Alta
+F2.8;2. Copy — Henri;Copy da página de captura;Destrava o layout da Maytte. É o primeiro elo da corrente da página.;Henri;05/10/2026;06/10/2026;07/10/2026;F0.7;Urgente
+F2.9;2. Copy — Henri;Briefing dos 30 criativos de captação: ângulos, dores e promessas;Só não alunos — não há tráfego para alunos.;Henri;29/09/2026;02/10/2026;05/10/2026;F0.7;Alta
+F2.10;2. Copy — Henri;Copy dos criativos de captação — lote 1 (15 peças);5 roteiros de vídeo + 5 imagens elaboradas + 5 nativas.;Henri;06/10/2026;08/10/2026;09/10/2026;F2.9;Alta
+F2.11;2. Copy — Henri;Copy dos criativos de captação — lote 2 (15 peças);;Henri;09/10/2026;13/10/2026;14/10/2026;F2.10;Alta
+F2.12;2. Copy — Henri;Roteiro do Manifesto;Grava em 26-27/10, sobe 03/11.;Henri;12/10/2026;16/10/2026;19/10/2026;;Alta
+F2.13;2. Copy — Henri;Roteiros do Corredor Polonês fase 2 — lote 1 (quebra de objeção + prova social);COM CTA. Roda junto com a captação.;Henri;12/10/2026;16/10/2026;19/10/2026;;Alta
+F2.14a;2. Copy — Henri;Copy da página de vendas — PARTE 1: os 11 cursos, um a um, com nome, capa e preço;Quebrei em duas entregas de propósito: esta parte é o grosso da página e não depende dos argumentos de preço. Destrava o layout da Maytte uma semana antes.;Henri;29/09/2026;07/10/2026;08/10/2026;F0.1;Urgente
+F2.14b;2. Copy — Henri;Copy da página de vendas — PARTE 2: a escada de anos, os 3 argumentos de preço, bônus e fechamento;Entra no layout já em andamento. Aqui moram os R$ 58,20 do mensalista — o argumento mais forte da campanha.;Henri;08/10/2026;14/10/2026;15/10/2026;F2.14a · F0.10;Urgente
+F2.15;2. Copy — Henri;Sequência API + e-mail — captação GERAL (não alunos);Entra no ar 26/10.;Henri;08/10/2026;14/10/2026;15/10/2026;F2.8;Alta
+F2.16;2. Copy — Henri;Sequência API + e-mail — captação ALUNOS (grupo B, R$ 1.497);Alunos não recebem tráfego: esta sequência É a campanha deles.;Henri;16/10/2026;19/10/2026;20/10/2026;F2.14b;Urgente
+F2.17;2. Copy — Henri;Sequência API + e-mail — RENOVAÇÃO grupo A (turma de setembro, R$ 997);Tom de privilégio, nominal, um a um. Não pode soar como campanha.;Henri;16/10/2026;21/10/2026;22/10/2026;F2.14b;Alta
+F2.18;2. Copy — Henri;Roteiros fase 2 — lote 2;;Henri;19/10/2026;23/10/2026;26/10/2026;F2.13;Normal
+F2.19;2. Copy — Henri;Sequências de comparecimento — 3 versões (grupo A, alunos, geral);;Henri;16/10/2026;22/10/2026;23/10/2026;F2.14b;Alta
+F2.20;2. Copy — Henri;Briefing e copy dos 30 criativos de carrinho aberto;Rodam a partir de 09/11.;Henri;16/10/2026;22/10/2026;23/10/2026;F2.14b;Alta
+F2.21;2. Copy — Henri;Script da aula de alunos (05/11), com os 30 min de pitch dos 11 cursos;;Henri;19/10/2026;29/10/2026;30/10/2026;F2.14b;Urgente
+F2.22;2. Copy — Henri;Script da aula magna geral (09/11);;Henri;19/10/2026;29/10/2026;30/10/2026;F2.14b;Urgente
+F2.23;2. Copy — Henri;FAQ e respostas prontas do suporte (inclui a resposta se o link do grupo A vazar);;Henri;22/10/2026;29/10/2026;30/10/2026;F2.14b;Alta
+F2.24;2. Copy — Henri;Sequência de carrinho aberto (10 a 16/11);;Henri;02/11/2026;05/11/2026;06/11/2026;F2.22;Alta
+F2.25;2. Copy — Henri;Sequência de virada de lote — 3 dias de urgência, até 10 mensagens/dia;Dispara quando o CPA subir, não em data fixa.;Henri;09/11/2026;11/11/2026;12/11/2026;F2.24;Normal
+F2.26;2. Copy — Henri;Copy do Combo de Natal;;Henri;16/11/2026;27/11/2026;30/11/2026;;Normal
+F3.1;3. Design — Maytte;Capas dos 11 cursos do acervo;Cada curso precisa aparecer com nome, capa e preço. Sem isso o pitch dos cursos não existe.;Maytte;05/10/2026;13/10/2026;13/10/2026;F1.2 · F0.1;Urgente
+F3.2;3. Design — Maytte;Card/motion de anúncio da Black — 2 versões (sem data e com data);"A versão sem data roda no orgânico; a com data entra depois do trailer.";Maytte;05/10/2026;08/10/2026;09/10/2026;F1.2;Alta
+F3.3;3. Design — Maytte;Layout da página de captura;Só começa com a copy APROVADA.;Maytte;09/10/2026;13/10/2026;14/10/2026;F2.8 · F1.5;Urgente
+F3.4;3. Design — Maytte;10 criativos de imagem ELABORADA — captação;;Maytte;15/10/2026;20/10/2026;20/10/2026;F2.11;Alta
+F3.5;3. Design — Maytte;10 criativos de imagem NATIVA — captação;Estética de celular, sem cara de anúncio.;Maytte;15/10/2026;21/10/2026;21/10/2026;F2.11;Alta
+F3.6;3. Design — Maytte;Layout da página de vendas (11 cursos + escada de anos + 3 blocos de preço);Só começa com a copy APROVADA e as capas prontas.;Maytte;14/10/2026;20/10/2026;20/10/2026;F2.14a · F3.1;Urgente
+F3.6b;3. Design — Maytte;Ajustar o layout da página de vendas com o bloco de preço aprovado;;Maytte;21/10/2026;21/10/2026;21/10/2026;F2.14b · F3.6;Urgente
+F3.7;3. Design — Maytte;Diagramação do PDF Plano de Leitura por Idade;É item da oferta — precisa existir antes de 05/11.;Maytte;16/10/2026;23/10/2026;26/10/2026;F1.5;Normal
+F3.8;3. Design — Maytte;Cards dos FLS semanais (6 edições) e das 2 aulas extras de alunos;Entrega em lote, um por semana no ar.;Maytte;08/10/2026;13/10/2026;13/10/2026;F1.5;Normal
+F3.9;3. Design — Maytte;Artes de comparecimento e stories das aulas magnas;;Maytte;26/10/2026;29/10/2026;30/10/2026;F1.5;Alta
+F3.10;3. Design — Maytte;10 criativos de imagem ELABORADA — carrinho aberto;;Maytte;26/10/2026;29/10/2026;29/10/2026;F2.20;Alta
+F3.11;3. Design — Maytte;10 criativos de imagem NATIVA — carrinho aberto;;Maytte;26/10/2026;30/10/2026;30/10/2026;F2.20;Alta
+F3.12;3. Design — Maytte;Artes de virada de lote (novo preço, urgência);;Maytte;13/11/2026;17/11/2026;18/11/2026;F2.25;Normal
+F4.1;4. Web — Ericson;Implementar a página de captura;;Ericson;15/10/2026;19/10/2026;20/10/2026;F3.3;Urgente
+F4.2;4. Web — Ericson;Integrar a página de captura com o ManyChat e o Funnel (captura de nome, e-mail e WhatsApp);;Ericson;21/10/2026;21/10/2026;21/10/2026;F4.1 · F5.5;Urgente
+F4.3;4. Web — Ericson;Página de obrigado + redirecionamento para o grupo de WhatsApp;;Ericson;21/10/2026;21/10/2026;21/10/2026;F4.1 · F5.8;Alta
+F4.4;4. Web — Ericson;Teste ponta a ponta da captura: mobile, desktop, formulário, redirect, chegada no ManyChat;PÁGINA DE CAPTURA PRONTA. Captação abre 26/10 — 1 dia útil de folga.;Ericson;22/10/2026;22/10/2026;22/10/2026;F4.2 · F4.3;Urgente
+F4.5;4. Web — Ericson;Implementar a página de vendas (uma página, 3 preços conforme a origem do acesso);A lógica de preço por origem é o ponto técnico mais delicado da campanha.;Ericson;21/10/2026;27/10/2026;27/10/2026;F3.6b;Urgente
+F4.6;4. Web — Ericson;Ligar os botões da página aos 3 checkouts (R$ 1.997 / R$ 1.497 / R$ 997 privado);;Ericson;28/10/2026;28/10/2026;28/10/2026;F4.5 · F5.1;Urgente
+F4.7;4. Web — Ericson;Pixel, eventos de conversão e UTMs em todas as páginas;Combinar os eventos com o Apoena antes de subir.;Ericson;28/10/2026;29/10/2026;29/10/2026;F4.5;Alta
+F4.8;4. Web — Ericson;Teste ponta a ponta da venda: os 3 caminhos de preço, compra real de teste, entrega do acesso;PÁGINA DE VENDAS PRONTA. Black de alunos é 05/11 — 3 dias úteis de folga.;Ericson;30/10/2026;30/10/2026;30/10/2026;F4.6 · F5.3;Urgente
+F4.9;4. Web — Ericson;Colocar a página de vendas em modo virada de lote (troca de preço sem republicar);;Ericson;28/10/2026;06/11/2026;09/11/2026;F4.5;Normal
+F4.10;4. Web — Ericson;Monitoramento das páginas nos dias de abertura (05/11 e 09/11);De plantão nas duas noites de aula magna.;Ericson;05/11/2026;09/11/2026;;F4.8;Urgente
+F5.1;5. Infra — Hugo;Configurar os 3 checkouts: R$ 1.997 (geral), R$ 1.497 (alunos), R$ 997 (grupo A, privado);O do grupo A não pode ser indexável nem acessível por link público óbvio.;Hugo;05/10/2026;20/10/2026;21/10/2026;F0.2;Urgente
+F5.2;5. Infra — Hugo;Regra de cancelamento automático da recorrência mensal na compra do grupo 2;Somar o saldo do mês em curso ao ano novo.;Hugo;22/10/2026;27/10/2026;28/10/2026;F0.11 · F5.1;Urgente
+F5.3;5. Infra — Hugo;Entrega automática dos acessos: acervo vitalício + PHI (1 ou 2 anos) + acesso duplo do cônjuge;O acesso duplo precisa de um caminho para a pessoa cadastrar o cônjuge.;Hugo;22/10/2026;28/10/2026;29/10/2026;F5.1;Urgente
+F5.4;5. Infra — Hugo;Aprovar a 2ª BM e o 2º número na Salvy, e aquecer;Risco de queda da API no dia da abertura. Redundância obrigatória.;Hugo;29/09/2026;20/10/2026;22/10/2026;;Urgente
+F5.5;5. Infra — Hugo;ManyChat — fluxo de captação GERAL (não alunos);;Hugo;16/10/2026;20/10/2026;20/10/2026;F2.15;Urgente
+F5.6;5. Infra — Hugo;ManyChat — fluxo de captação ALUNOS (grupo B);Sem tráfego para alunos, este fluxo é a campanha inteira deles.;Hugo;21/10/2026;26/10/2026;27/10/2026;F2.16;Urgente
+F5.7;5. Infra — Hugo;ManyChat — fluxo nominal da RENOVAÇÃO (grupo A, 21 pessoas);Disparo um a um, com o nome da pessoa. Não é lista, é mensagem.;Hugo;23/10/2026;29/10/2026;30/10/2026;F2.17;Alta
+F5.8;5. Infra — Hugo;Criar e configurar os grupos de WhatsApp (FLS + captação geral + captação alunos);O grupo do FLS #1 precisa existir já em 29/09.;Hugo;29/09/2026;15/10/2026;16/10/2026;;Alta
+F5.9;5. Infra — Hugo;Reativar os grupos antigos e limpar números inválidos;;Hugo;05/10/2026;15/10/2026;16/10/2026;;Alta
+F5.10;5. Infra — Hugo;Funnel — importar as 3 listas e montar as automações de e-mail;;Hugo;16/10/2026;22/10/2026;23/10/2026;F0.2 · F2.15;Alta
+F5.11;5. Infra — Hugo;ManyChat + Funnel — sequências de comparecimento das 3 frentes;;Hugo;29/10/2026;03/11/2026;04/11/2026;F2.19;Alta
+F5.12;5. Infra — Hugo;Estrutura técnica da virada de lote (subir R$ 250 sem quebrar link);;Hugo;26/10/2026;04/11/2026;05/11/2026;F5.1;Alta
+F5.13;5. Infra — Hugo;Liberar boleto parcelado no checkout (ativa 16/11);;Hugo;09/11/2026;13/11/2026;16/11/2026;F5.1;Normal
+F5.14;5. Infra — Hugo;Fila de recuperação: boleto pendente, carrinho abandonado, cartão recusado;;Hugo;26/10/2026;03/11/2026;04/11/2026;F5.1;Alta
+F5.15;5. Infra — Hugo;Plantão técnico nas aberturas (05/11 e 09/11);;Hugo;05/11/2026;09/11/2026;;F5.3;Urgente
+F6.1;6. Agente de IA — Hugo;Escolher a ferramenta e desenhar a arquitetura do agente;Construção do zero. É o entregável mais arriscado do plano.;Hugo + Kalinne;05/10/2026;07/10/2026;08/10/2026;F0.8;Alta
+F6.2;6. Agente de IA — Hugo;Selecionar o material do acervo que vira base de conhecimento do agente;"O agente responde ""como o Robson"" — a base define se ele soa como ele ou não.";Nayara;05/10/2026;16/10/2026;19/10/2026;F0.8;Alta
+F6.3;6. Agente de IA — Hugo;Preparar a base: transcrever, limpar e estruturar o material selecionado;;Hugo;20/10/2026;26/10/2026;27/10/2026;F6.2;Alta
+F6.4;6. Agente de IA — Hugo;Construir e configurar o agente;;Hugo;28/10/2026;03/11/2026;04/11/2026;F6.1 · F6.3;Alta
+F6.5;6. Agente de IA — Hugo;Teste do agente com 30 perguntas reais de pais;Se ele responder errado sobre formação de filhos, o dano é de reputação, não de conversão.;Kalinne + Robson;04/11/2026;04/11/2026;04/11/2026;F6.4;Urgente
+F6.6;6. Agente de IA — Hugo;Ajustes finais e fluxo de entrega do acesso ao comprador;Precisa estar no ar na aula de alunos, 05/11 20h30.;Hugo;04/11/2026;05/11/2026;05/11/2026;F6.5;Urgente
+F7.1;7. Tráfego — Apoena;Montar a estrutura de campanhas, públicos e exclusões (alunos excluídos de TODA a mídia);Alunos não recebem tráfego. Se um aluno vir o anúncio de R$ 1.997, a oferta de R$ 1.497 morre.;Apoena;01/10/2026;07/10/2026;08/10/2026;F0.2;Urgente
+F7.2;7. Tráfego — Apoena;Subir a campanha do Corredor Polonês fase 1 (público quente, verba R$ 1.500);Roda de 29/09 a 19/10.;Apoena;29/09/2026;01/10/2026;;;Alta
+F7.3;7. Tráfego — Apoena;Subir a campanha do Funil de Live Semanal (verba R$ 1.500);;Apoena;29/09/2026;01/10/2026;;;Alta
+F7.4;7. Tráfego — Apoena;Subir a campanha do Trailer;Trailer sobe 20/10.;Apoena;16/10/2026;19/10/2026;;F7.1;Alta
+F7.5;7. Tráfego — Apoena;Montar e subir a campanha de captação (15 dias, verba R$ 10.500);Criativos na mão 2 dias antes. Abre 26/10.;Apoena;22/10/2026;23/10/2026;;F3.4 · F3.5 · F8.9 · F4.4;Urgente
+F7.6;7. Tráfego — Apoena;Subir a campanha do Corredor Polonês fase 2 (verba menor, público já captado);;Apoena;20/10/2026;23/10/2026;;F2.13;Normal
+F7.7;7. Tráfego — Apoena;Relatório diário de CPL e volume de leads durante a captação;Gatilho para subir verba se o CPL não estourar.;Apoena;26/10/2026;09/11/2026;;F7.5;Alta
+F7.8;7. Tráfego — Apoena;Campanha jato das duas aberturas (05/11 e 09/11);;Apoena;02/11/2026;04/11/2026;;F7.5;Urgente
+F7.9;7. Tráfego — Apoena;Campanha de carrinho aberto;Ativa 09/11.;Apoena;04/11/2026;06/11/2026;;F3.10 · F3.11;Alta
+F7.10;7. Tráfego — Apoena;Pausar tráfego de captação na semana do varejo (24 a 30/11);A maré da Black do varejo é de graça — só API, e-mail, grupos e stories.;Apoena;20/11/2026;23/11/2026;;F7.9;Normal
+F8.1;8. Vídeo — Jota e Editor 2;Cortes do Corredor Polonês fase 1 — lote 1 (3 peças);Sobem sem banner da Black: a identidade só fica pronta em 02/10 e a fase 1 não tem CTA mesmo.;Jota;29/09/2026;30/09/2026;30/09/2026;F2.2 · F9.3;Urgente
+F8.2;8. Vídeo — Jota e Editor 2;Cortes fase 1 — lote 2 (5 peças, com banner);;Jota;06/10/2026;08/10/2026;08/10/2026;F2.3 · F1.4;Alta
+F8.3;8. Vídeo — Jota e Editor 2;Cortes fase 1 — lote 3 (5 peças);;Jota;12/10/2026;14/10/2026;14/10/2026;F2.4;Alta
+F8.4;8. Vídeo — Jota e Editor 2;Cortes fase 1 — lote 4 (5 peças);;Jota;19/10/2026;21/10/2026;21/10/2026;F2.5;Alta
+F8.5;8. Vídeo — Jota e Editor 2;Editar o Trailer Hollywood;Gravação termina 14/10. Ajustes 19/10, sobe 20/10. É o gargalo mais apertado da campanha.;Jota;15/10/2026;16/10/2026;16/10/2026;F9.1;Urgente
+F8.6;8. Vídeo — Jota e Editor 2;Ajustes finais do Trailer;;Jota;19/10/2026;19/10/2026;19/10/2026;F8.5;Urgente
+F8.7;8. Vídeo — Jota e Editor 2;Editar o Pronunciamento Oficial;Sobe 28/10.;Editor 2;15/10/2026;21/10/2026;21/10/2026;F9.1;Alta
+F8.8;8. Vídeo — Jota e Editor 2;10 criativos em VÍDEO — captação — lote 1 (5);;Editor 2;15/10/2026;19/10/2026;20/10/2026;F2.10 · F9.1;Alta
+F8.9;8. Vídeo — Jota e Editor 2;10 criativos em VÍDEO — captação — lote 2 (5);;Editor 2;15/10/2026;21/10/2026;21/10/2026;F2.10 · F9.1;Alta
+F8.10;8. Vídeo — Jota e Editor 2;Cortes do Corredor Polonês fase 2 — lote 1 (5 peças);;Jota;20/10/2026;22/10/2026;22/10/2026;F2.13;Alta
+F8.11;8. Vídeo — Jota e Editor 2;Editar o Manifesto;Gravação 26-27/10. Ajustes 30/10, sobe 03/11.;Jota;28/10/2026;29/10/2026;29/10/2026;F9.2;Urgente
+F8.12;8. Vídeo — Jota e Editor 2;Ajustes finais do Manifesto;;Jota;30/10/2026;30/10/2026;30/10/2026;F8.11;Urgente
+F8.13;8. Vídeo — Jota e Editor 2;Vídeos de comparecimento das 3 frentes;;Editor 2;28/10/2026;30/10/2026;02/11/2026;F2.19 · F9.2;Alta
+F8.14;8. Vídeo — Jota e Editor 2;Cortes fase 2 — lote 2 (5 peças);;Jota;26/10/2026;30/10/2026;02/11/2026;F2.18;Normal
+F8.15;8. Vídeo — Jota e Editor 2;10 criativos em VÍDEO — carrinho aberto;Ativam 09/11.;Editor 2;28/10/2026;04/11/2026;05/11/2026;F2.20 · F9.2;Alta
+F8.16;8. Vídeo — Jota e Editor 2;Cortar os melhores momentos das aulas magnas para o carrinho aberto;;Jota;10/11/2026;13/11/2026;16/11/2026;;Normal
+F9.1;9. Conteúdo e Robson — Nayara;GRAVAÇÃO 1 — trailer, pronunciamento e criativos de captação;Dois dias inteiros. Checklist de cenas fechado em 12/10: nada pode faltar, não há segunda chance antes de 20/10.;Isadora + Nayara;13/10/2026;14/10/2026;;F2.6 · F2.7 · F2.9;Urgente
+F9.2;9. Conteúdo e Robson — Nayara;GRAVAÇÃO 2 — manifesto, comparecimento e criativos de carrinho;"26/10 é o mesmo dia que abre a captação geral. Robson grava o dia inteiro; a abertura é do time.";Isadora + Nayara;26/10/2026;27/10/2026;;F2.12 · F2.19 · F2.20;Urgente
+F9.3;9. Conteúdo e Robson — Nayara;Selecionar trechos do acervo para a linha editorial — lote 1 (timestamps + tema);É o combustível da fase 1. Sem seleção, o Jota não edita.;Nayara;25/09/2026;28/09/2026;28/09/2026;;Urgente
+F9.4;9. Conteúdo e Robson — Nayara;Selecionar trechos do acervo — lotes semanais (5 por semana, até 19/10);Entrega toda quinta para o lote da semana seguinte.;Nayara;29/09/2026;16/10/2026;;F9.3;Alta
+F9.5;9. Conteúdo e Robson — Nayara;Calendário editorial de feed e stories até dezembro;;Nayara;29/09/2026;02/10/2026;02/10/2026;;Alta
+F9.6;9. Conteúdo e Robson — Nayara;Orgânico começa a falar de Black Friday, sem data;;Nayara;29/09/2026;29/09/2026;;;Urgente
+F9.7;9. Conteúdo e Robson — Nayara;Stories diários de aquecimento e bastidores;Tarefa recorrente. Robson de camiseta da Black a partir de 20/10.;Nayara;29/09/2026;09/11/2026;;;Alta
+F9.8;9. Conteúdo e Robson — Nayara;Publicar os cortes da fase 1 no feed e no YouTube;Recorrente, 3 a 5 por semana.;Nayara;01/10/2026;19/10/2026;;F8.1;Alta
+F9.9;9. Conteúdo e Robson — Nayara;Publicar os conteúdos da fase 2;Recorrente.;Nayara;23/10/2026;09/11/2026;;F8.10;Alta
+F9.10;9. Conteúdo e Robson — Nayara;Confirmar os professores convidados dos FLS #3 (13/10) e #5 (27/10);;Isadora;29/09/2026;06/10/2026;;;Alta
+F9.11;9. Conteúdo e Robson — Nayara;Ensaio da aula magna com o Robson;Roda o pitch dos 11 cursos inteiro, com a apresentação na tela.;Isadora;04/11/2026;04/11/2026;;F2.21 · F2.22;Urgente
+F10.1;10. Comercial e suporte;Treinar o suporte nos 3 preços e na regra de classificação;Todo mundo do suporte precisa saber responder por que existem 3 preços.;Isadora;02/11/2026;03/11/2026;04/11/2026;F2.23;Alta
+F10.2;10. Comercial e suporte;Escalar plantão de suporte para as noites de 05/11 e 09/11;;Isadora;04/11/2026;04/11/2026;;F10.1;Alta
+F10.3;10. Comercial e suporte;Operar a fila de recuperação: boleto, abandono e cartão recusado;Começa junto com a primeira abertura.;Isadora;05/11/2026;16/11/2026;;F5.14;Alta
+F10.4;10. Comercial e suporte;Conferir diariamente se os acessos estão sendo entregues corretamente;Erro de entrega de acesso vira reembolso e reclamação pública.;Isadora;05/11/2026;16/11/2026;;F5.3;Urgente
