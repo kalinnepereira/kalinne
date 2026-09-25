@@ -1,7 +1,15 @@
 # BLACK FRIDAY 2026 — PROFESSOR ROBSON CARDENAS
-## Estratégia completa · versão 4 · pós-mentoria com Leandro Duarte
+## Estratégia completa · versão 4.1 · pós-mentoria com Leandro Duarte
 
 Kalinne (estratégia) · Isadora (gestão) · Henri (copy)
+
+> **v4.1 — o que mudou desde ontem.** A oferta de alunos estava errada. Eu tinha
+> dado **2 anos de PHI a todos os alunos**, quando o Leandro disse *"só essa
+> turma que acabou de entrar"*. Um mensalista levando 2 anos teria uma oferta
+> melhor que a da turma de setembro, seis semanas depois — seria enganar a base.
+> Agora são **três preços, separados pela relação de cada um com o PHI**:
+> **R$ 1.997** não aluno · **R$ 1.497** aluno e mensalista · **R$ 997** turma de
+> setembro. Ver **2.3** e **3**.
 Fontes: mentoria com **Leandro Duarte** (24/09) · Operação Black Friday e
 Desafio Scale (Leandro Ferrari, Henrique Brenha, João Matheus) · **Workbook do
 Método Corredor Polonês** (XFlow)
@@ -10,18 +18,19 @@ Método Corredor Polonês** (XFlow)
 
 # O QUE MUDOU NA MENTORIA — leia isto primeiro
 
-Sete mudanças. Cinco vêm de orientação direta do Leandro Duarte, duas são
+Oito mudanças. Cinco vêm de orientação direta do Leandro Duarte, três são
 correção de erro meu.
 
 | # | Antes (v3.1) | Agora (v4) | Por quê |
 |---|---|---|---|
 | 1 | R$ 997 · **preço mais barato** | **R$ 1.997** · preço **mais caro** | *"A ideia da Black não é fazer um preço mais barato, sim fazer um valor que seja no-brainer, mas além de ser no-brainer ele seja mais caro."* |
-| 2 | **3 meses** de PHI | **1 ano** (geral) e **2 anos** (alunos) | *"Colocar só três meses nele talvez seja um tiro no pé. Daria pelo menos um ou dois anos de acesso."* |
-| 3 | PHI custa **R$ 1.439/ano** | **R$ 997/ano** | **Erro meu.** Kalinne: *"eu vendi o PHI por R$ 997."* Refiz todas as contas |
+| 2 | **3 meses** de PHI | **1 ano** em todas as ofertas · **2 anos só para a turma de setembro** | *"Colocar só três meses nele talvez seja um tiro no pé. Daria pelo menos um ou dois anos de acesso."* |
+| 3 | PHI custa **R$ 1.439/ano** | **Anuidade R$ 997** · **mensal R$ 119,90 = R$ 1.438,80/ano** | Os dois números existem e eu confundi um com o outro. R$ 1.439 é o **plano mensal anualizado**, não a anuidade. A anuidade de setembro já saiu R$ 441,80 mais barata que o mensal |
 | 4 | Aula magna **10 e 12/11** | **05/11 alunos · 09/11 geral** | Data definida na mentoria |
 | 5 | Captação 18 dias (geral) e 15 (alunos) | **15 dias** e **8 dias** | *"O que funciona bem é tu diminuir o período de captação. Principalmente para alunos, tu não precisa de 15 dias, uma semana é mais do que suficiente."* |
 | 6 | Carrinho **fecha 23/11** + reabertura | **O carrinho não fecha.** Vira lote, sobe preço, vai até dezembro | *"O carrinho não tem data de fechar."* |
 | 7 | Acervo com preços "a levantar" | **Cada curso com nome, capa e preço na página** — entregável bloqueante | *"Os outros 10 cursos precisam ter nome, capa, precisam aparecer. Se tu conseguir mostrar eles, funciona bem demais."* |
+| **8** | **Um preço de aluno para todos**, com 2 anos de PHI | **Três preços — R$ 1.997 · R$ 1.497 · R$ 997** — separados por *relação com o PHI*, não por "é aluno ou não" | **Correção da Kalinne, e ela está certa.** Leandro disse literalmente *"só essa turma que acabou de entrar"*. Dar 2 anos a um mensalista seria oferta melhor que a de setembro — enganaria a base |
 
 ---
 
@@ -97,7 +106,7 @@ A oferta é construída em quatro camadas:
 |---|---|
 | **Contos Maravilhosos** — a âncora, o produto mais conhecido da casa | **Vitalício** |
 | Histórias Fantásticas · Imaginação Moral · Latim · Curso do Herói · Fábulas de Esopo · Contos de Grimm · Andersen · Ilíada e Odisseia · Jornada da Literatura · Mitologia · IA e Educação Clássica | **Vitalício** |
-| **PHI — Programa de Humanidades Integradas, ao vivo toda semana** | **1 ano** (geral) · **2 anos** (alunos) |
+| **PHI — Programa de Humanidades Integradas, ao vivo toda semana** | **1 ano** — em todas as ofertas. *Exceção única:* a turma de setembro soma 1 ano ao que já tem, e fica com 2 |
 | **Plano de Leitura por Idade** (PDF) | **Vitalício** |
 | Suporte | 24 meses |
 
@@ -112,37 +121,117 @@ real:
 Ele continua **não sendo vitalício** — é entrega semanal ao vivo, e vitalício
 mataria a esteira. Mas 3 meses era pouco demais para carregar uma oferta.
 
-## 2.3 O preço
+## 2.3 O preço — três públicos, três preços
 
-| Público | Preço | Leva |
-|---|---|---|
-| **Não alunos** — Black geral, 09/11 | **R$ 1.997** | Acervo vitalício + **1 ano de PHI** |
-| **Alunos** — qualquer compra anterior, inclusive a turma de setembro do PHI — Black de alunos, 05/11 | **R$ 997** | Acervo vitalício + **2 anos de PHI** |
+O que separa os preços **não é "é aluno ou não é aluno"**. É **a relação de cada
+um com o PHI** — porque o PHI é o único item da oferta que tem prazo, e o único
+que acabou de ser vendido.
 
-> "Pra tu não queimar a base de quem já comprou o PHI: pô, vocês que entraram
-> agora, em vez de pagar R$ 1.997 vocês vão pagar **metade do valor**. E em vez
-> de ter um ano de PHI, vocês vão ter **dois anos**. E além disso vocês vão levar
-> vitalício todos os outros materiais. […] **É como se tu antecipasse a renovação
-> deles um ano.**" — Leandro Duarte
+A regra que sustenta tudo, e que não pode ser quebrada em lugar nenhum da
+campanha: **ninguém compra um ano de PHI por menos de R$ 997.** Esse foi o preço
+da anuidade de setembro e ele é o piso. Todo o resto do preço é o acervo.
 
-**Estendi isso a todos os alunos**, e não só à turma de setembro, por duas
-razões: mantém a regra do Henrique de **um preço de aluno só**, e evita um
-terceiro preço na campanha. *É uma extensão minha, não fala literal dele.*
+| # | Quem | O que já tem | Preço | Leva | Quando |
+|---|---|---|---|---|---|
+| **1** | **Não aluno** — nunca comprou nada | nada | **R$ 1.997** | Acervo vitalício + **1 ano de PHI** | **09/11** |
+| **2** | **Aluno** — comprou qualquer curso, **ou** paga a mensalidade do PHI | parte do acervo, ou PHI mês a mês | **R$ 1.497** | Acervo vitalício + **1 ano de PHI** | **05/11** |
+| **3** | **Turma de setembro** — pagou a anuidade de R$ 997, ativa até set/2027 | 1 ano de PHI garantido | **R$ 997** | Acervo vitalício + **1 ano somado ao que já tem** → set/2028 | **03/11**, link privado |
+
+Escada de R$ 500 em R$ 500. Cada degrau tem uma frase de justificativa que
+qualquer pessoa entende — e que se sustenta em público se vazar.
+
+### Por que o grupo 3 é separado, e só ele
+
+> "Pra tu não queimar a base de quem já comprou o PHI, pra esses eu faria um
+> valor de desconto. Pô, cara, vocês que entraram no PHI agora, **essa turma de
+> agora, só essa turma que acabou de entrar**, em vez de pagar R$ 1.997 vocês vão
+> pagar metade do valor. […] Em vez de vocês terem um ano de PHI, vocês vão ter
+> dois anos. […] **É como se tu antecipasse a renovação deles um ano.**"
+> — Leandro Duarte
+
+Os dois anos **só funcionam para quem já tem um ano pago**. É renovação
+antecipada: soma ao que existe. Dar dois anos a quem paga mensalidade não seria
+renovação — seria uma oferta melhor que a de setembro, seis semanas depois da
+venda. A turma de setembro descobriria em um dia, e a confiança da base iria
+junto.
+
+**Na versão anterior eu tinha estendido os 2 anos a todos os alunos. Estava
+errado, e a Kalinne pegou.** O Leandro é literal: *só essa turma*.
+
+### O mensalista — a venda mais fácil da campanha inteira
+
+A mensalidade do PHI é **R$ 119,90/mês**.
+
+| Se ele não fizer nada | Se ele comprar a Black |
+|---|---|
+| R$ 119,90 × 12 = **R$ 1.438,80** nos próximos 12 meses | **R$ 1.497**, uma vez só |
+| O acesso acaba no dia em que ele parar de pagar | **12 meses travados**, sem reajuste |
+| **Zero** curso vitalício | **11 cursos vitalícios** + Plano de Leitura |
+
+**A diferença é R$ 58,20.**
+
+Por R$ 58 a mais do que ele já vai gastar de qualquer jeito, ele para de ser
+cobrado todo mês e leva o acervo inteiro para sempre. Esse é o argumento mais
+forte da campanha — e não é promessa, é aritmética.
+
+### O mesmo argumento serve o aluno de outros cursos
+
+Ele paga os mesmos **R$ 1.497** e leva acervo + 1 ano de PHI. O ano de PHI
+sozinho, no plano mensal, custa R$ 1.438,80 — ou seja, **ele paga R$ 58 acima do
+preço do PHI e o acervo inteiro vem junto.**
+
+Um preço de aluno, um argumento de aluno, uma página de aluno. A regra do
+Henrique (*um preço de aluno só*) está respeitada: o grupo 3 **não é um segundo
+preço de aluno**, é uma renovação, em link separado, que nunca aparece na página
+pública.
 
 ### A conta de quem comprou o PHI em setembro
 
-O PHI custou **R$ 997** por 1 ano (corrigido — eu vinha usando R$ 1.439).
+| | Pagou no total | Leva | Custo por ano de PHI |
+|---|---|---|---|
+| **Turma de setembro** | R$ 997 + R$ 997 = **R$ 1.994** | Acervo + **24 meses** | **R$ 997** |
+| **Aluno / mensalista** | **R$ 1.497** | Acervo + **12 meses** | **R$ 1.497** |
+| **Não aluno** | **R$ 1.997** | Acervo + **12 meses** | **R$ 1.997** |
 
-| | Pagou no total | Leva |
+Quem entrou em setembro sai **na frente de todo mundo**, e a última coluna prova
+isso em um número só. A regra do Henrique — *"você só não pode oferecer uma
+oferta melhor na Black do que pra esses caras"* — agora está respeitada de
+verdade.
+
+### Como classificar cada pessoa
+
+Alguém pode se encaixar em mais de um grupo. A regra: **o vínculo mais profundo
+com o PHI ganha.**
+
+| Situação | Grupo | Preço |
 |---|---|---|
-| Comprou PHI em setembro **e** a Black | R$ 997 + R$ 997 = **R$ 1.994** | Acervo vitalício + **36 meses** de PHI |
-| Aluno de curso, só a Black | **R$ 997** | Acervo vitalício + **24 meses** de PHI |
-| Não aluno | **R$ 1.997** | Acervo vitalício + **12 meses** de PHI |
+| Anuidade do PHI ativa (comprou em setembro) | **3** | R$ 997 |
+| Mensalidade do PHI ativa | **2** | R$ 1.497 |
+| Comprou qualquer curso, nunca teve PHI | **2** | R$ 1.497 |
+| Nada | **1** | R$ 1.997 |
 
-Quem comprou em setembro pagou R$ 997 a mais e levou 12 meses a mais de PHI —
-**exatamente o preço de tabela**. Ninguém sai prejudicado, e a regra do Henrique
-(*"você só não pode oferecer uma oferta melhor na Black do que pra esses caras"*)
-está respeitada.
+**Isadora:** as três listas precisam sair da plataforma como **três exportações
+separadas e sem sobreposição**, antes de 26/10. É pré-requisito da captação — sem
+isso não há como disparar preço certo para pessoa certa.
+
+### Se o link do grupo 3 vazar
+
+Resposta pronta, para o suporte e para os grupos:
+
+> "Essa condição é a renovação antecipada de quem pagou a anuidade do PHI em
+> setembro. Quem já tem um ano pago soma mais um. Quem ainda não tem um ano pago
+> está comprando o primeiro ano — que é o que está na página."
+
+Verdadeiro, curto, e não abre exceção.
+
+### Operacional do mensalista — não pode falhar
+
+- [ ] No ato da compra, **cancelar a recorrência mensal**. Se ele for cobrado de
+      novo depois de comprar a Black, você perde o cliente e ganha um reembolso
+- [ ] Definir o destino do mês em curso já pago — recomendo **somar ao ano**
+      (fica 12 meses + o saldo). Custa nada e evita discussão
+- [ ] O checkout do grupo 2 precisa identificar o mensalista para disparar o
+      cancelamento automático
 
 ### A escada de anos — é assim que o preço é apresentado
 
@@ -194,15 +283,24 @@ seja "mais um curso"**.
 
 ---
 
-# 3. OS DOIS PÚBLICOS E AS DUAS DATAS
+# 3. OS TRÊS PÚBLICOS E AS TRÊS DATAS
 
-| | Público | Preço | Canal | Data |
-|---|---|---|---|---|
-| **A** | **Alunos** — qualquer compra anterior: curso, Grupo VIP (ingresso de lançamento pago), e a turma de setembro do PHI | **R$ 997** | API oficial, e-mail, grupos, área de membros, comunidade | **05/11 quinta** |
-| **B** | **Não alunos** — 16 mil leads, seguidores, demanda reprimida | **R$ 1.997** | Tráfego 100% quente + orgânico + grupos + API | **09/11 segunda** |
+| | Público | Preço | Canal | Data | Evento |
+|---|---|---|---|---|---|
+| **A** | **Turma de setembro do PHI** — anuidade ativa | **R$ 997** | API oficial + e-mail, **nominal, um a um**. Link privado | **03/11 segunda** | Nenhum. É uma mensagem, não uma aula |
+| **B** | **Alunos** — comprou qualquer curso, Grupo VIP (ingresso de lançamento pago), **ou paga mensalidade do PHI** | **R$ 1.497** | API oficial, e-mail, grupos, área de membros, comunidade | **05/11 quinta** | **Aula de alunos, ao vivo** |
+| **C** | **Não alunos** — 16 mil leads, seguidores, demanda reprimida | **R$ 1.997** | Tráfego 100% quente + orgânico + grupos + API | **09/11 segunda** | **Black geral, aula magna ao vivo** |
+
+**Todos os três carrinhos fecham juntos** — ou melhor, nenhum fecha: entram na
+mesma virada de lote a partir de 09/11.
 
 **A data que vai em todo criativo é 09/11** — a de não alunos. Regra do Ferrari:
 *"sempre, não alunos. É a maior referência."*
+
+**O grupo A não ganha aula.** Ele é o público mais quente da casa e o menor —
+não precisa de evento, precisa de uma mensagem direta que soe como privilégio, e
+não como campanha. Uma aula para 3 públicos diferentes cansa o Robson e dilui a
+aula magna.
 
 **A aula de alunos é o "lançamento separado" que o Leandro recomendou:**
 
@@ -275,6 +373,7 @@ gravação. YouTube **e** Instagram.
 | **Corredor Polonês fase 2** | 20/10 – 09/11 | 21 |
 | **Captação geral** | 26/10 – 09/11 | 15 |
 | **Captação alunos** | 29/10 – 05/11 | 8 |
+| **RENOVAÇÃO — turma de setembro** | **03/11 segunda** | — |
 | **BLACK DE ALUNOS** | **05/11 quinta 20h30** | — |
 | **BLACK GERAL** | **09/11 segunda 20h30** | — |
 | **Carrinho aberto** | 09/11 → **dezembro**, com viradas de lote | ~45 |
@@ -322,9 +421,9 @@ gravação. YouTube **e** Instagram.
 | 28/10 | Sobe o **PRONUNCIAMENTO OFICIAL** |
 | **29/10 quinta** | **ABRE CAPTAÇÃO DE ALUNOS** (8 dias) — API, e-mail, grupos, área de membros |
 | ~~02/11~~ | Nada sobe. Finados |
-| 03/11 | Sobe o **MANIFESTO** · FLS #6 |
+| **03/11 SEGUNDA** | Sobe o **MANIFESTO** · FLS #6 · **ABRE A RENOVAÇÃO DA TURMA DE SETEMBRO a R$ 997** — API nominal + e-mail, link privado, sem anúncio público |
 | 04/11 | Ensaio da aula magna |
-| **05/11 QUINTA 20h30** | **BLACK DE ALUNOS.** Ao vivo. Abre carrinho a R$ 997. Campanha jato |
+| **05/11 QUINTA 20h30** | **BLACK DE ALUNOS.** Ao vivo. Abre carrinho a **R$ 1.497**. Campanha jato |
 | 06 a 08/11 | Antecipação total de comparecimento para a geral · arrastão 2 |
 | **09/11 SEGUNDA 20h30** | **BLACK GERAL.** Ao vivo. Abre carrinho a R$ 1.997. Campanha jato |
 
@@ -408,7 +507,21 @@ página de vendas e no pitch.
 # 7. PARA O HENRI
 
 A objeção central não mudou: **"não vou dar conta"**. O que mudou é a resposta —
-agora é **1 a 2 anos de PHI ao vivo**, não 3 meses.
+agora é **1 ano de PHI ao vivo** (2 para a turma de setembro), não 3 meses.
+
+**Três públicos, três argumentos diferentes. Não é o mesmo texto com o preço
+trocado:**
+
+| Público | O argumento, em uma frase |
+|---|---|
+| **Não aluno** (R$ 1.997) | *"Tudo o que o Robson já gravou, para sempre, mais um ano ao vivo com ele — por menos do que [soma do catálogo]."* |
+| **Mensalista do PHI** (R$ 1.497) | *"Você já vai gastar R$ 1.438,80 nos próximos 12 meses só para continuar onde está. Por **R$ 58 a mais**, você trava o ano inteiro e leva os 11 cursos para sempre."* |
+| **Aluno de cursos** (R$ 1.497) | *"O ano de PHI sozinho custa R$ 1.438,80. Você paga R$ 58 acima disso e o acervo inteiro vem junto."* |
+| **Turma de setembro** (R$ 997) | *"Você não vai renovar em setembro de 2027 pagando de novo. Renova agora por metade, ganha o segundo ano e leva todo o acervo vitalício."* |
+
+O argumento do mensalista é o mais forte da campanha inteira **porque é
+aritmética verificável**, não promessa. O Henri deve escrever esse como o
+primeiro, não como o último.
 
 **A grande peça nova é o pitch dos cursos.** 25 a 30 minutos mostrando o que tem
 em cada um dos 11 cursos, com capa e preço, somando até um número absurdo, e só
@@ -423,7 +536,8 @@ então a escada de anos e o preço.
 | 5 | Roteiros de fase 2 — quebra de objeção + depoimento, com CTA | 16/10 |
 | 6 | Copy da página de captura | 16/10 |
 | 7 | **Roteiro do Manifesto** | 22/10 |
-| 8 | Sequência de API/e-mail — **versão aluno e versão geral** | 20/10 |
+| 8 | Sequência de API/e-mail — **três versões: geral, aluno e turma de setembro** | 20/10 |
+| 8b | **Mensagem nominal da renovação (grupo A)** — tom de privilégio, não de campanha | 28/10 |
 | 9 | **Copy da página de vendas com os 11 cursos e a escada de anos** | 24/10 |
 | 10 | **Script da aula magna** (com os 30 min de cursos) | 29/10 |
 | 11 | Sequência de comparecimento | 30/10 |
@@ -475,15 +589,33 @@ propósito.**
 | **Base** | **4.000** | **2,0%** | **80** | **R$ 159.760** |
 | Bom | 4.500 | 2,5% | 112 | **R$ 223.664** |
 
-**Black de alunos — R$ 997**, sobre ~750 compradores históricos, custo de mídia
-quase zero:
+**Black de alunos — R$ 1.497**, sobre ~750 compradores históricos **mais os
+mensalistas do PHI**, custo de mídia quase zero:
 
-| 10% | 15% | 20% |
+| Conversão | Vendas | Faturamento |
 |---|---|---|
-| R$ 74.775 | R$ 111.664 | R$ 149.550 |
+| 10% | 75 | **R$ 112.275** |
+| **15%** | **112** | **R$ 167.664** |
+| 20% | 150 | **R$ 224.550** |
 
-**Cenário base somado: ~R$ 270 mil.** Contra uma média histórica de R$ 44 mil por
-lançamento.
+**Renovação da turma de setembro — R$ 997.** Base menor, conversão muito mais
+alta: é gente que comprou há 6 semanas e está consumindo o produto agora.
+
+| A cada 100 compradores de setembro | 20% | 30% | 40% |
+|---|---|---|---|
+| Faturamento | R$ 19.940 | **R$ 29.910** | R$ 39.880 |
+
+⚠️ **Dois números que faltam e que eu não vou inventar:**
+- **Quantos compraram a anuidade em setembro** — define o grupo A inteiro
+- **Quantos mensalistas ativos existem hoje** — é a venda mais fácil da campanha
+  e não está dimensionada
+
+⚠️ **Cuidado com dupla contagem:** se os ~750 compradores históricos já incluem a
+turma de setembro, o grupo B encolhe na mesma medida. Os três recortes têm que
+sair da plataforma **sem sobreposição** antes de qualquer projeção virar meta.
+
+**Cenário base somado, sem o grupo A: ~R$ 327 mil.** Contra uma média histórica
+de R$ 44 mil por lançamento. O grupo A entra por cima.
 
 > Leandro Duarte, sobre um caso dele: *"A gente investiu trinta e poucos, quase
 > quarenta, e vendeu mais de seiscentos. […] A gente converteu quase 10% da base."*
@@ -503,8 +635,14 @@ Planejar isso já em dezembro, não em janeiro.
 
 - [ ] **Levantar o preço de tabela dos 11 cursos.** Sem isso não existe oferta,
       não existe página, não existe pitch. **É o item nº 1.**
-- [ ] **Confirmar com o Robson: 1 ano de PHI na oferta geral e 2 anos para
-      alunos.** Ele topa abrir o programa para a turma nova nessa condição?
+- [ ] **Confirmar com o Robson: 1 ano de PHI em todas as ofertas, e 2 anos só
+      para a turma de setembro.** Ele topa abrir o programa para a turma nova
+      nessa condição?
+- [ ] **Exportar as três listas da plataforma, sem sobreposição:** anuidade de
+      setembro · mensalistas ativos · compradores de cursos sem PHI. Sem isso não
+      há captação segmentada, não há projeção e não há checkout certo
+- [ ] **Decidir o cancelamento automático da mensalidade** no checkout do grupo B
+      (2.3, último bloco). Se isso falhar, o mensalista é cobrado duas vezes
 - [ ] **Reunião de concepção em 29/09**, com o time inteiro, para fechar oferta,
       preços, verba e responsáveis
 
@@ -519,8 +657,11 @@ Planejar isso já em dezembro, não em janeiro.
 
 ## Esta semana ainda
 
-- [ ] **28/09: fechar o carrinho do PHI** e antecipar a oferta da Black para quem
-      comprou, com enquadramento de privilégio
+- [ ] **28/09: fechar o carrinho do PHI** e mandar para a turma de setembro uma
+      mensagem de agradecimento que **promete** a condição de novembro sem dar
+      preço nem data: *"em novembro vai ter uma condição só de vocês"*. Isso mata
+      por seis semanas o medo de "comprei cedo e me ferrei", e não puxa caixa
+      para um preço que ainda não está pronto
 - [ ] Bloquear a agenda do Robson (6.2)
 - [ ] Encomendar a **camiseta da Black**
 - [ ] Levantar o **custo de disparo por API**
