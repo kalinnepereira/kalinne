@@ -388,7 +388,7 @@ gravação. YouTube **e** Instagram.
 |---|---|
 | até 28/09 | Só corredor polonês **fase 2** (quebra de objeção e depoimento), sem card de Black |
 | 28/09 | Fecha o carrinho do PHI |
-| 28/09 | **Antecipa a oferta da Black para quem comprou o PHI**, com enquadramento de privilégio |
+| 28/09 | **Promete** à turma de setembro uma condição exclusiva em novembro — **sem preço e sem data**. Só a promessa |
 
 ## Bloco 1 · 29/09 – 19/10 — Fase 1 (21 dias)
 
@@ -599,24 +599,34 @@ mensalistas do PHI**, custo de mídia quase zero:
 | **15%** | **112** | **R$ 167.664** |
 | 20% | 150 | **R$ 224.550** |
 
-**Renovação da turma de setembro — R$ 997.** Base menor, conversão muito mais
-alta: é gente que comprou há 6 semanas e está consumindo o produto agora.
+**Renovação da turma de setembro — R$ 997.** Aqui vale dizer o tamanho real:
+**o lançamento de setembro vendeu 21 unidades.** O grupo A tem ~21 pessoas.
 
-| A cada 100 compradores de setembro | 20% | 30% | 40% |
-|---|---|---|---|
-| Faturamento | R$ 19.940 | **R$ 29.910** | R$ 39.880 |
+| Conversão | Vendas | Faturamento |
+|---|---|---|
+| 30% | 6 | R$ 5.982 |
+| **50%** | **10** | **R$ 9.970** |
+| 70% | 14 | R$ 13.958 |
 
-⚠️ **Dois números que faltam e que eu não vou inventar:**
-- **Quantos compraram a anuidade em setembro** — define o grupo A inteiro
-- **Quantos mensalistas ativos existem hoje** — é a venda mais fácil da campanha
-  e não está dimensionada
+**O grupo A não existe para faturar — existe para não quebrar a confiança da
+base.** Vale R$ 6 a 14 mil e custa uma sequência de mensagens. Faça bem feito e
+esqueça a meta. É também por isso que ele não ganha aula: não se monta um evento
+ao vivo para 21 pessoas.
+
+⚠️ **O número que falta, e que eu não vou inventar: quantos mensalistas ativos
+existem hoje.** É a venda mais fácil da campanha — R$ 58 acima do que a pessoa já
+vai gastar de qualquer jeito — e **não está dimensionada em lugar nenhum**. Se
+forem 200 mensalistas convertendo a 25%, são 50 vendas × R$ 1.497 =
+**R$ 74.850** que hoje não aparecem em projeção nenhuma. **Levantar esse número é
+a maior alavanca de receita disponível agora.**
 
 ⚠️ **Cuidado com dupla contagem:** se os ~750 compradores históricos já incluem a
-turma de setembro, o grupo B encolhe na mesma medida. Os três recortes têm que
-sair da plataforma **sem sobreposição** antes de qualquer projeção virar meta.
+turma de setembro e os mensalistas, o grupo B encolhe na mesma medida. Os três
+recortes têm que sair da plataforma **sem sobreposição** antes de qualquer
+projeção virar meta.
 
-**Cenário base somado, sem o grupo A: ~R$ 327 mil.** Contra uma média histórica
-de R$ 44 mil por lançamento. O grupo A entra por cima.
+**Cenário base somado: ~R$ 333 mil** — geral R$ 159.760 + alunos R$ 167.664 +
+grupo A R$ 5.982. Contra uma média histórica de R$ 44 mil por lançamento.
 
 > Leandro Duarte, sobre um caso dele: *"A gente investiu trinta e poucos, quase
 > quarenta, e vendeu mais de seiscentos. […] A gente converteu quase 10% da base."*
