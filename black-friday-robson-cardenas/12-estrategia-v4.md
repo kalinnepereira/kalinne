@@ -10,6 +10,7 @@ Kalinne (estratégia) · Isadora (gestão) · Henri (copy)
 > Agora são **três preços, separados pela relação de cada um com o PHI**:
 > **R$ 1.997** não aluno · **R$ 1.497** aluno e mensalista · **R$ 997** turma de
 > setembro. Ver **2.3** e **3**.
+
 Fontes: mentoria com **Leandro Duarte** (24/09) · Operação Black Friday e
 Desafio Scale (Leandro Ferrari, Henrique Brenha, João Matheus) · **Workbook do
 Método Corredor Polonês** (XFlow)
