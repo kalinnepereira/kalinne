@@ -207,7 +207,7 @@ Se a sequência de API falhar, a Black de alunos não acontece — não há plan
 
 - **F1.1** — A Black é de literatura clássica para pais católicos — não pode virar varejo genérico.
 - **F1.2** — BLOQUEIA todo o design: criativos, páginas, cards, banner dos cortes, camiseta.
-- **F1.4** — Entra nos cortes a partir de 07/10. Os cortes da 1ª semana sobem sem banner — fase 1 não tem CTA mesmo.
+- **F1.4** — Entra nos cortes a partir de 06/10. Os cortes da 1ª semana sobem sem banner — fase 1 não tem CTA mesmo.
 - **F1.5** — Sem o kit, cada peça vira trabalho do zero.
 - **F1.6** — Só se a camiseta ficar no escopo.
 - **F1.7** — Prazo de gráfica + entrega. Robson usa em todo story a partir de 20/10.

@@ -40,7 +40,7 @@ F='1. Identidade visual da Black'
 t('F1.1',F,'Kalinne','Briefing de identidade da Black: tom, referências, o que NÃO pode parecer','25/09','28/09','','','Urgente','A Black é de literatura clássica para pais católicos — não pode virar varejo genérico.')
 t('F1.2',F,'Maytte','Logo/selo da Black Friday Robson Cardenas — 3 propostas','29/09','01/10','02/10','F1.1','Urgente','BLOQUEIA todo o design: criativos, páginas, cards, banner dos cortes, camiseta.')
 t('F1.3',F,'Maytte','Paleta, tipografia e regras de aplicação','29/09','01/10','02/10','F1.1','Urgente','')
-t('F1.4',F,'Maytte','Banner de encerramento dos cortes (o selo que fecha cada vídeo da linha editorial)','05/10','05/10','05/10','F1.2','Alta','Entra nos cortes a partir de 07/10. Os cortes da 1ª semana sobem sem banner — fase 1 não tem CTA mesmo.')
+t('F1.4',F,'Maytte','Banner de encerramento dos cortes (o selo que fecha cada vídeo da linha editorial)','05/10','05/10','05/10','F1.2','Alta','Entra nos cortes a partir de 06/10. Os cortes da 1ª semana sobem sem banner — fase 1 não tem CTA mesmo.')
 t('F1.5',F,'Maytte','Kit de templates: story, feed, thumb do YouTube, capa de grupo, moldura de corte','05/10','07/10','07/10','F1.2','Alta','Sem o kit, cada peça vira trabalho do zero.')
 t('F1.6',F,'Maytte','Arte da camiseta da Black','05/10','07/10','07/10','F1.2 · F0.6','Normal','Só se a camiseta ficar no escopo.')
 t('F1.7',F,'Isadora','Encomendar a camiseta da Black (produção física)','08/10','09/10','','F1.6','Normal','Prazo de gráfica + entrega. Robson usa em todo story a partir de 20/10.')
