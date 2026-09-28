@@ -17,7 +17,7 @@ EMAIL={
  'Maytte':'maytteteixeira@gmail.com',
  'Nayara':'bitzernayara@gmail.com',
  'Ericson':'ericsonsilva.dsg@gmail.com',
- 'Jota':'joathan07@gmail.com',              # "Joathan Aguiar (Jota)"
+ 'Jota':'joathana02@gmail.com',             # confirmado pela Kalinne
  'Robson + Nayara':'bitzernayara@gmail.com',# Robson nao tem conta; Nayara conduz
  'Hugo':'',                                  # SEM CONTA no ClickUp
  'Apoena':'',                                # SEM CONTA no ClickUp
@@ -45,7 +45,7 @@ for x in T:
         dia=dias[min(int(round(k*(len(dias)-1)/max(total-1,1))), len(dias)-1)]
         _r=('' if tipo=='P' else resp(nome))
         sub=novo(nome=nome, grupo=x['g'], due=isoD(dia), resp=_r,
-                 desc=(('⚠️ RESPONSÁVEL: '+_r+' — sem conta no ClickUp, a Isadora repassa') if _r in SEM_CONTA
+                 desc=(('📲 '+_r+' — prestador de serviço, fora do ClickUp. A Isadora passa por WhatsApp') if _r in SEM_CONTA
                        else ('Responsável: '+_r if _r else '')))
         pai['subids'].append(sub['id']); k+=1
         if filhos:
@@ -53,7 +53,7 @@ for x in T:
                 dia=dias[min(int(round(k*(len(dias)-1)/max(total-1,1))), len(dias)-1)]
                 _rf=resp(fnome)
                 neto=novo(nome=fnome, grupo=x['g'], due=isoD(dia), resp=_rf,
-                          desc=(('⚠️ RESPONSÁVEL: '+_rf+' — sem conta no ClickUp, a Isadora repassa') if _rf in SEM_CONTA
+                          desc=(('📲 '+_rf+' — prestador de serviço, fora do ClickUp. A Isadora passa por WhatsApp') if _rf in SEM_CONTA
                                 else ('Responsável: '+_rf if _rf else '')))
                 sub['subids'].append(neto['id']); k+=1
 
@@ -94,4 +94,26 @@ for r in rows:
     w2.writerow([r['id'], r['nome'], ','.join(str(i) for i in r['subids']),
                  r['resp'] or '—', r['ini'], r['due'], r['grupo']])
 f2.close()
-print('gerados os 2 arquivos')
+
+import datetime as _dt, collections
+PT=['seg','ter','qua','qui','sex','sáb','dom']
+for quem in ('Hugo','Apoena'):
+    itens=[r for r in rows if r['resp']==quem]
+    itens.sort(key=lambda r: r['due'])
+    por=collections.OrderedDict()
+    for r in itens:
+        dt=_dt.date.fromisoformat(r['due'])
+        seg=dt-_dt.timedelta(days=dt.weekday())
+        por.setdefault(seg,[]).append((dt,r))
+    L=[f'*BLACK FRIDAY — DEMANDAS {quem.upper()}*',
+       f'_{len(itens)} entregas · lista Não alunos · aula magna 09/11_','']
+    for seg,lst in por.items():
+        L.append(f'*Semana de {seg.strftime("%d/%m")}*')
+        for dt,r in lst:
+            pai=next((p["nome"] for p in rows if r["id"] in p["subids"]), '')
+            L.append(f'{dt.strftime("%d/%m")} {PT[dt.weekday()]} — {r["nome"]}')
+            if pai: L.append(f'      ({pai})')
+        L.append('')
+    io.open(f'plano/WHATSAPP-{quem}.txt','w',encoding='utf-8').write('\n'.join(L))
+    print(f'WHATSAPP-{quem}.txt: {len(itens)} entregas')
+print('gerados os arquivos')

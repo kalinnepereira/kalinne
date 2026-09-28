@@ -1,6 +1,6 @@
 ﻿Task ID;Tarefa / Subtarefa;Subtask IDs;Responsável;Início;Entrega;Grupo
 1;Narrativa;2,3;—;2026-09-28;2026-10-01;1. Pré Lançamento
-2;Criar narrativa do lançamento;;Hugo;;2026-09-28;1. Pré Lançamento
+2;Criar narrativa do lançamento;;Henri;;2026-09-28;1. Pré Lançamento
 3;Aprovar narrativa do lançamento;;Kalinne;;2026-10-01;1. Pré Lançamento
 4;Id Visual;5,6,7;—;2026-09-28;2026-10-02;1. Pré Lançamento
 5;Briefing id visual do lançamento;;Isadora;;2026-09-28;1. Pré Lançamento
@@ -67,7 +67,7 @@
 66;[Captação orgânica] Instagram;67,68,69;—;2026-10-19;2026-10-23;3. Captação
 67;Copy bio instagram;;Henri;;2026-10-19;3. Captação
 68;Aprovar copy bio instagram;;Kalinne;;2026-10-21;3. Captação
-69;Trocar bio no instagram;;Hugo;;2026-10-23;3. Captação
+69;Trocar bio no instagram;;Nayara;;2026-10-23;3. Captação
 70;[Grupos WhatsApp] Capa + Configuração;71,72,73,74,75,76;—;2026-10-05;2026-10-21;3. Captação
 71;Briefing imagem capa para grupos whatsapp;;Isadora;;2026-10-05;3. Captação
 72;Entregar imagem capa para grupos whatsapp;;Maytte;;2026-10-07;3. Captação
@@ -97,13 +97,13 @@
 96;Briefing banner capa canal YT;;Isadora;;2026-10-05;3. Captação
 97;Entregar banner capa canal YT;;Maytte;;2026-10-09;3. Captação
 98;Aprovar banner capa canal YT;;Kalinne;;2026-10-15;3. Captação
-99;Trocar banner capa canal YT;;Hugo;;2026-10-21;3. Captação
+99;Trocar banner capa canal YT;;Nayara;;2026-10-21;3. Captação
 100;[Automação e-mail] Boas vindas cadastrados;101,102,103;—;2026-10-14;2026-10-23;3. Captação
 101;Copy automação de e-mail boas vindas cadastrados;;Henri;;2026-10-14;3. Captação
 102;Aprovar copy automação de e-mail boas vindas cadastrados;;Kalinne;;2026-10-20;3. Captação
 103;Criar automação e-mail boas vindas cadastrados;;Hugo;;2026-10-23;3. Captação
 104;[Captação orgânica] Página de cadastro e obrigado;105,106,107,108;—;2026-10-15;2026-10-22;3. Captação
-105;Solicitar para webdesigner página de cadastro orgânica;;Ericson;;2026-10-15;3. Captação
+105;Solicitar para webdesigner página de cadastro orgânica;;Isadora;;2026-10-15;3. Captação
 106;Aprovar página de cadastro orgânica;;Kalinne;;2026-10-19;3. Captação
 107;Conferir e testar página de cadastro orgânica;;Ericson;;2026-10-20;3. Captação
 108;Criar UTMs página de cadastro orgânica;;Ericson;;2026-10-22;3. Captação
@@ -216,7 +216,7 @@
 215;Aprovar cronômetro aula;;Kalinne;;2026-10-16;6. Conversão PL
 216;Depoimentos;217,218,219;—;;2026-10-19;6. Conversão PL
 217;Briefing depoimentos;;Isadora;;2026-10-21;6. Conversão PL
-218;Entregar depoimentos;;Maytte;;2026-10-22;6. Conversão PL
+218;Entregar depoimentos;;Jota;;2026-10-22;6. Conversão PL
 219;Aprovar depoimentos;;Kalinne;;2026-10-23;6. Conversão PL
 220;PPT aula;221,222,223,224,225;—;;2026-10-26;6. Conversão PL
 221;Copy conteúdo aula;;Henri;;2026-10-28;6. Conversão PL
@@ -266,7 +266,7 @@
 265;Briefing banner canal YT inscrições abertas;;Isadora;;2026-10-26;7. Conversão L
 266;Entregar banner canal YT inscrições abertas;;Maytte;;2026-10-28;7. Conversão L
 267;Aprovar banner canal YT inscrições abertas;;Kalinne;;2026-11-03;7. Conversão L
-268;Trocar no YT banner inscrições abertas;;Hugo;;2026-11-05;7. Conversão L
+268;Trocar no YT banner inscrições abertas;;Nayara;;2026-11-05;7. Conversão L
 269;[Inscrições] E-mails;270,271,272;—;2026-10-26;2026-11-05;7. Conversão L
 270;Copy e-mails de inscrições;;Henri;;2026-10-26;7. Conversão L
 271;Aprovar copy e-mails de inscrições;;Kalinne;;2026-10-30;7. Conversão L

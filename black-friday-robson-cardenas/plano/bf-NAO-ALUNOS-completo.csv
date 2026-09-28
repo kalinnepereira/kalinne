@@ -1,6 +1,6 @@
 ﻿Grupo;Tarefa;Subtarefa;Nível;Responsável;Início;Entrega;Campanha roda;Observação
 1. Pré Lançamento;Narrativa;;TAREFA;—;28/09/2026;01/10/2026;—;O fio que amarra tudo. Bloqueia a copy de todas as peças.
-1. Pré Lançamento;Narrativa;Criar narrativa do lançamento;SUBTAREFA;Hugo;;28/09/2026;;
+1. Pré Lançamento;Narrativa;Criar narrativa do lançamento;SUBTAREFA;Henri;;28/09/2026;;
 1. Pré Lançamento;Narrativa;Aprovar narrativa do lançamento;SUBTAREFA;Kalinne;;01/10/2026;;
 1. Pré Lançamento;Id Visual;;TAREFA;—;28/09/2026;02/10/2026;—;BLOQUEIA todo o design. Hoje não existe identidade visual da Black.
 1. Pré Lançamento;Id Visual;Briefing id visual do lançamento;SUBTAREFA;Isadora;;28/09/2026;;
@@ -67,7 +67,7 @@
 3. Captação;[Captação orgânica] Instagram;;TAREFA;—;19/10/2026;23/10/2026;26/10 a 09/11;
 3. Captação;[Captação orgânica] Instagram;Copy bio instagram;SUBTAREFA;Henri;;19/10/2026;;
 3. Captação;[Captação orgânica] Instagram;Aprovar copy bio instagram;SUBTAREFA;Kalinne;;21/10/2026;;
-3. Captação;[Captação orgânica] Instagram;Trocar bio no instagram;SUBTAREFA;Hugo;;23/10/2026;;
+3. Captação;[Captação orgânica] Instagram;Trocar bio no instagram;SUBTAREFA;Nayara;;23/10/2026;;
 3. Captação;[Grupos WhatsApp] Capa + Configuração;;TAREFA;—;05/10/2026;21/10/2026;26/10 a 09/11;
 3. Captação;[Grupos WhatsApp] Capa + Configuração;Briefing imagem capa para grupos whatsapp;SUBTAREFA;Isadora;;05/10/2026;;
 3. Captação;[Grupos WhatsApp] Capa + Configuração;Entregar imagem capa para grupos whatsapp;SUBTAREFA;Maytte;;07/10/2026;;
@@ -97,13 +97,13 @@
 3. Captação;[Captação orgânica] Youtube;Briefing banner capa canal YT;SUBTAREFA;Isadora;;05/10/2026;;
 3. Captação;[Captação orgânica] Youtube;Entregar banner capa canal YT;SUBTAREFA;Maytte;;09/10/2026;;
 3. Captação;[Captação orgânica] Youtube;Aprovar banner capa canal YT;SUBTAREFA;Kalinne;;15/10/2026;;
-3. Captação;[Captação orgânica] Youtube;Trocar banner capa canal YT;SUBTAREFA;Hugo;;21/10/2026;;
+3. Captação;[Captação orgânica] Youtube;Trocar banner capa canal YT;SUBTAREFA;Nayara;;21/10/2026;;
 3. Captação;[Automação e-mail] Boas vindas cadastrados;;TAREFA;—;14/10/2026;23/10/2026;26/10 a 09/11;
 3. Captação;[Automação e-mail] Boas vindas cadastrados;Copy automação de e-mail boas vindas cadastrados;SUBTAREFA;Henri;;14/10/2026;;
 3. Captação;[Automação e-mail] Boas vindas cadastrados;Aprovar copy automação de e-mail boas vindas cadastrados;SUBTAREFA;Kalinne;;20/10/2026;;
 3. Captação;[Automação e-mail] Boas vindas cadastrados;Criar automação e-mail boas vindas cadastrados;SUBTAREFA;Hugo;;23/10/2026;;
 3. Captação;[Captação orgânica] Página de cadastro e obrigado;;TAREFA;—;15/10/2026;22/10/2026;26/10 a 09/11;
-3. Captação;[Captação orgânica] Página de cadastro e obrigado;Solicitar para webdesigner página de cadastro orgânica;SUBTAREFA;Ericson;;15/10/2026;;
+3. Captação;[Captação orgânica] Página de cadastro e obrigado;Solicitar para webdesigner página de cadastro orgânica;SUBTAREFA;Isadora;;15/10/2026;;
 3. Captação;[Captação orgânica] Página de cadastro e obrigado;Aprovar página de cadastro orgânica;SUBTAREFA;Kalinne;;19/10/2026;;
 3. Captação;[Captação orgânica] Página de cadastro e obrigado;Conferir e testar página de cadastro orgânica;SUBTAREFA;Ericson;;20/10/2026;;
 3. Captação;[Captação orgânica] Página de cadastro e obrigado;Criar UTMs página de cadastro orgânica;SUBTAREFA;Ericson;;22/10/2026;;
@@ -216,7 +216,7 @@
 6. Conversão PL;[Materiais aula];    ↳ Aprovar cronômetro aula;NETO;Kalinne;;16/10/2026;;
 6. Conversão PL;[Materiais aula];Depoimentos;SUBTAREFA (tem filhos);—;;19/10/2026;;
 6. Conversão PL;[Materiais aula];    ↳ Briefing depoimentos;NETO;Isadora;;21/10/2026;;
-6. Conversão PL;[Materiais aula];    ↳ Entregar depoimentos;NETO;Maytte;;22/10/2026;;
+6. Conversão PL;[Materiais aula];    ↳ Entregar depoimentos;NETO;Jota;;22/10/2026;;
 6. Conversão PL;[Materiais aula];    ↳ Aprovar depoimentos;NETO;Kalinne;;23/10/2026;;
 6. Conversão PL;[Materiais aula];PPT aula;SUBTAREFA (tem filhos);—;;26/10/2026;;
 6. Conversão PL;[Materiais aula];    ↳ Copy conteúdo aula;NETO;Henri;;28/10/2026;;
@@ -266,7 +266,7 @@
 7. Conversão L;[Inscrições] Banner capa canal do YT;Briefing banner canal YT inscrições abertas;SUBTAREFA;Isadora;;26/10/2026;;
 7. Conversão L;[Inscrições] Banner capa canal do YT;Entregar banner canal YT inscrições abertas;SUBTAREFA;Maytte;;28/10/2026;;
 7. Conversão L;[Inscrições] Banner capa canal do YT;Aprovar banner canal YT inscrições abertas;SUBTAREFA;Kalinne;;03/11/2026;;
-7. Conversão L;[Inscrições] Banner capa canal do YT;Trocar no YT banner inscrições abertas;SUBTAREFA;Hugo;;05/11/2026;;
+7. Conversão L;[Inscrições] Banner capa canal do YT;Trocar no YT banner inscrições abertas;SUBTAREFA;Nayara;;05/11/2026;;
 7. Conversão L;[Inscrições] E-mails;;TAREFA;—;26/10/2026;05/11/2026;09/11 em diante;
 7. Conversão L;[Inscrições] E-mails;Copy e-mails de inscrições;SUBTAREFA;Henri;;26/10/2026;;
 7. Conversão L;[Inscrições] E-mails;Aprovar copy e-mails de inscrições;SUBTAREFA;Kalinne;;30/10/2026;;

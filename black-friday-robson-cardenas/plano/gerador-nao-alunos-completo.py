@@ -15,6 +15,12 @@ def uteis(a,b):
 
 # responsavel por padrao de texto — regra unica, aplicada a todas as 225 subtarefas
 REGRAS=[
+ # excecoes especificas — precisam vir ANTES das regras genericas
+ (r'^criar narrativa','Henri'),
+ (r'^solicitar para webdesigner','Isadora'),
+ (r'^entregar depoimentos','Jota'),
+ (r'^trocar bio|^trocar banner|^trocar no yt','Nayara'),
+ # regras gerais
  (r'^aprovar|^aprova[çc][ãa]o','Kalinne'),
  (r'^copy|^briefing / copy','Henri'),
  (r'^grava[çc][ãa]o','Robson + Nayara'),
@@ -159,7 +165,7 @@ t(G,'[Tráfego] Link transmissão aula Youtube','09/11','30/10','04/11',
 
 # ============ 5. CONVERSÃO PPL (10) ============
 G='5. Conversão PPL'
-t(G,'Campanha de Antecipação Aula','03/11 a 09/11','30/10','02/11',
+t(G,'Campanha de Antecipação Aula','03/11 a 09/11','29/10','30/10',
   ['Liberar criativos de antecipação','Subir criativos de antecipação'],
   'Template: 30/10–05/11. Movido para a janela da nossa aula de 09/11.')
 t(G,'[Antecipação tráfego] Copy legenda','03/11 a 09/11','21/10','28/10', f(CL2,'antecipação'))
