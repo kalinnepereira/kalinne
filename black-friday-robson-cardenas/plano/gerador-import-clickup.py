@@ -9,8 +9,20 @@ T=m.T; uteis=m.uteis; resp=m.resp
 def isoD(x): return x.strftime('%Y-%m-%d')
 
 # e-mails do time — a preencher
-EMAIL={'Kalinne':'','Henri':'','Nayara':'','Hugo':'','Isadora':'','Apoena':'',
-       'Maytte':'','Ericson':'','Jota':'','Robson + Nayara':'','—':''}
+# e-mails reais, lidos na tela "Gerenciar pessoas" (9 usuarios no workspace)
+EMAIL={
+ 'Kalinne':'kalinnepereira@gmail.com',      # conta "Gestao | Brand" — operada pela Isadora
+ 'Isadora':'kalinnepereira@gmail.com',      # idem: ela usa a conta da Kalinne
+ 'Henri':'henri.d.oliveira@gmail.com',
+ 'Maytte':'maytteteixeira@gmail.com',
+ 'Nayara':'bitzernayara@gmail.com',
+ 'Ericson':'ericsonsilva.dsg@gmail.com',
+ 'Jota':'joathan07@gmail.com',              # "Joathan Aguiar (Jota)"
+ 'Robson + Nayara':'bitzernayara@gmail.com',# Robson nao tem conta; Nayara conduz
+ 'Hugo':'',                                  # SEM CONTA no ClickUp
+ 'Apoena':'',                                # SEM CONTA no ClickUp
+ '—':''}
+SEM_CONTA={'Hugo','Apoena'}
 
 rows=[]; nid=0
 def novo(**kw):
@@ -31,13 +43,18 @@ for x in T:
     k=0
     for tipo,nome,filhos in flat:
         dia=dias[min(int(round(k*(len(dias)-1)/max(total-1,1))), len(dias)-1)]
-        sub=novo(nome=nome, grupo=x['g'], due=isoD(dia),
-                 resp=('' if tipo=='P' else resp(nome)))
+        _r=('' if tipo=='P' else resp(nome))
+        sub=novo(nome=nome, grupo=x['g'], due=isoD(dia), resp=_r,
+                 desc=(('⚠️ RESPONSÁVEL: '+_r+' — sem conta no ClickUp, a Isadora repassa') if _r in SEM_CONTA
+                       else ('Responsável: '+_r if _r else '')))
         pai['subids'].append(sub['id']); k+=1
         if filhos:
             for fnome in filhos:
                 dia=dias[min(int(round(k*(len(dias)-1)/max(total-1,1))), len(dias)-1)]
-                neto=novo(nome=fnome, grupo=x['g'], due=isoD(dia), resp=resp(fnome))
+                _rf=resp(fnome)
+                neto=novo(nome=fnome, grupo=x['g'], due=isoD(dia), resp=_rf,
+                          desc=(('⚠️ RESPONSÁVEL: '+_rf+' — sem conta no ClickUp, a Isadora repassa') if _rf in SEM_CONTA
+                                else ('Responsável: '+_rf if _rf else '')))
                 sub['subids'].append(neto['id']); k+=1
 
 # validação
@@ -54,6 +71,10 @@ filhos_ref=[s for r in rows for s in r['subids']]
 if len(filhos_ref)!=len(set(filhos_ref)): err.append('alguma linha é filha de dois pais')
 raiz=[r for r in rows if r['id'] not in set(filhos_ref)]
 print('LINHAS:',len(rows),'| tarefas raiz:',len(raiz),'| relações pai-filho:',len(filhos_ref))
+from collections import Counter
+cc=Counter(r['resp'] for r in rows if r['resp'])
+print('com e-mail :', sum(v for k,v in cc.items() if EMAIL.get(k)))
+print('SEM e-mail :', {k:v for k,v in cc.items() if not EMAIL.get(k)})
 print('ERROS:', err[:5] if err else 'nenhum')
 
 f=io.open('plano/IMPORTAR-NO-CLICKUP-nao-alunos.csv','w',encoding='utf-8-sig',newline='')
