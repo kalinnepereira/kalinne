@@ -1,0 +1,26 @@
+﻿Task ID;Task Name;Assignee;Start Date;Due Date;Revisão Kalinne até;Quando roda;Depende de (plano);Faltava no meu plano?;Descrição
+86akmc9mt;Narrativa;Kalinne + Henri;29/09/2026;02/10/2026;05/10/2026;—;F0.7;SIM — eu não tinha previsto;NOVO NO PLANO. O fio que amarra trailer, pronunciamento, manifesto e aula. Sem ele cada peça conta uma história diferente.
+86akmc9kd;Id Visual;Maytte;29/09/2026;01/10/2026;02/10/2026;—;F1.1;;Logo/selo + paleta + tipografia. BLOQUEIA todo o design da campanha.
+86akmc9nt;[Grupos WhatsApp] Capa + Configuração;Hugo + Maytte;05/10/2026;15/10/2026;16/10/2026;—;F1.5;;Grupo de captação de alunos. Capa sai do kit de templates da Maytte.
+86akmc9f5;[Pré-captação orgânico] API;Henri (copy) + Hugo (disparo);12/10/2026;16/10/2026;19/10/2026;20/10 a 28/10;F2.13;;Aquecimento antes de abrir a captação. Conteúdo de fase 2: quebra de objeção, sem oferta.
+86akmc9f7;[Pré-captação orgânico] Vídeos;Jota;12/10/2026;16/10/2026;19/10/2026;20/10 a 28/10;F2.13;;Cortes de fase 2 direcionados a quem já é aluno.
+86akmc9f8;[Captação orgânica] E-mails;Henri (copy) + Hugo (Funnel);16/10/2026;27/10/2026;28/10/2026;29/10 a 05/11;F2.16 · F5.10;;Captação de alunos: 8 dias, conforme orientação do Leandro Duarte. O template do Ferrari usa 16 dias.
+86akmc9gk;[Captação orgânica] API;Henri (copy) + Hugo (ManyChat);16/10/2026;27/10/2026;28/10/2026;29/10 a 05/11;F2.16 · F5.6;;SEM TRÁFEGO. Esta sequência É a campanha de alunos inteira. Se falhar, não há plano B de mídia.
+86akmc9f9;[Captação orgânica] Mensagens grupos whatsapp;Henri (copy) + Hugo;16/10/2026;27/10/2026;28/10/2026;29/10 a 05/11;F2.16;;
+86akmc9fa;[Captação orgânica] Área de membros;Henri (copy) + Ericson;19/10/2026;27/10/2026;28/10/2026;29/10 a 05/11;F2.16;SIM — eu não tinha previsto;NOVO NO PLANO. Banner e aviso dentro da área de membros — canal que eu tinha citado mas não virou tarefa.
+86akmc9n2;Criar aula no Zoom;Hugo;19/10/2026;28/10/2026;29/10/2026;05/11 20h30;—;SIM — eu não tinha previsto;NOVO NO PLANO. Sala, link, capacidade, gravação e teste de transmissão. Eu tinha o ensaio, não tinha a sala.
+86akmc9m4;[Materiais aula];Maytte;16/10/2026;02/11/2026;03/11/2026;05/11;F2.14b · F3.1 · F2.21;SIM — eu não tinha previsto;"NOVO NO PLANO, E ERA A MAIOR FALHA MINHA. São 30 minutos mostrando 11 cursos com capa e preço: isso é uma apresentação. Esqueleto sai da copy da página e das capas; o script fecha. Pronta 02/11 para ensaiar em 04/11."
+86akmc9gq;[Antecipação]  E-mails;Henri (copy) + Hugo;23/10/2026;30/10/2026;30/10/2026;02/11 a 05/11;F2.19 · F5.11;;
+86akmc9gm;[Antecipação]   API;Henri (copy) + Hugo;23/10/2026;30/10/2026;30/10/2026;02/11 a 05/11;F2.19 · F5.11;;
+86akmc9gr;[Antecipação] Mensagens grupos whatsapp;Henri (copy) + Hugo;23/10/2026;30/10/2026;30/10/2026;02/11 a 05/11;F2.19;;
+86akmc9hn;[Estou ao vivo e Cadê Você] API;Henri (copy) + Hugo;26/10/2026;03/11/2026;03/11/2026;05/11;F2.19 · F5.11;;Disparo no dia, durante a aula. Separado da antecipação de propósito — o Ferrari tem razão em quebrar em dois momentos.
+86akmc9hy;[Estou ao vivo e Cadê Você] E-mails;Henri (copy) + Hugo;26/10/2026;03/11/2026;03/11/2026;05/11;F2.19 · F5.11;;
+86akmc9hw;[Estou ao vivo e Cadê Você] Mensagens grupo whatsapp;Henri (copy) + Hugo;26/10/2026;03/11/2026;03/11/2026;05/11;F2.19;;
+86akmc9hz;[Estou ao vivo]  URA e SMS;Henri (copy) + Hugo;26/10/2026;03/11/2026;03/11/2026;05/11;F2.19;SIM — eu não tinha previsto;NOVO NO PLANO. Dois canais de comparecimento que eu não tinha considerado. Verificar custo e fornecedor antes de 26/10.
+86akmc9mc;[Inscrições] Checkout;Hugo;05/10/2026;20/10/2026;21/10/2026;05/11 em diante;F0.2;;Checkout de alunos a R$ 1.497. Precisa identificar o mensalista para disparar o cancelamento da recorrência.
+86akmc9mk;[Inscrições] Página de vendas;Henri + Maytte + Ericson;29/09/2026;30/10/2026;30/10/2026;05/11 em diante;F2.14b · F3.6b · F4.8;;A corrente mais longa da campanha: preço dos cursos → copy em 2 partes → capas → layout → implementação → 3 checkouts → teste com compra real.
+86akmc9jw;[Inscrições]  API;Henri (copy) + Hugo;26/10/2026;03/11/2026;03/11/2026;05/11 em diante;F2.24;;
+86akmc9j7;[Inscrições]  E-mails;Henri (copy) + Hugo;26/10/2026;03/11/2026;03/11/2026;05/11 em diante;F2.24;;
+86akmc9k3;[Inscrições]  Mensagens grupo whatsapp;Henri (copy) + Hugo;26/10/2026;03/11/2026;03/11/2026;05/11 em diante;F2.24;;
+86akmc9k7;[Incrições] Automação e-mail compras;Henri (copy) + Hugo;22/10/2026;30/10/2026;30/10/2026;05/11 em diante;F5.3;SIM — eu não tinha previsto;NOVO NO PLANO. Confirmação e boas-vindas pós-compra. Eu tinha a entrega do acesso, não a comunicação que vai junto.
+86akmc9k5;[Inscrições] Automação API compras;Hugo;22/10/2026;30/10/2026;30/10/2026;05/11 em diante;F5.3;SIM — eu não tinha previsto;NOVO NO PLANO. Idem, pelo WhatsApp.
