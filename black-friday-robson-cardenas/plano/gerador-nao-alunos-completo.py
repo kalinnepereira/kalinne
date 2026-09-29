@@ -34,8 +34,18 @@ REGRAS=[
  (r'^criar|^programar|^ligar automa|^colocar|^pegar link|^abrir grupos|^trocar','Hugo'),
  (r'^definir','Kalinne'),
 ]
+# divisao da frente de video entre os dois editores.
+# criterio: nenhum dos dois com duas entregas no mesmo dia nem em dias colados.
+FELIPE={
+ 'entregar vídeos de pré-captação editados',
+ 'entregar cronômetro aula editado',
+ 'entregar depoimentos',
+ 'entregar vídeos de manifesto editados',
+ 'entregar vídeos de inscrições abertas editados',
+}
 def resp(s):
     t=s.strip().lower()
+    if t in FELIPE: return 'Felipe'
     for pat,r in REGRAS:
         if re.search(pat,t): return r
     return 'A DEFINIR'

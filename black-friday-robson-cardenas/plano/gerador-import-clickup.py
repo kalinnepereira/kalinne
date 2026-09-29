@@ -19,10 +19,11 @@ EMAIL={
  'Ericson':'ericsonsilva.dsg@gmail.com',
  'Jota':'joathana02@gmail.com',             # confirmado pela Kalinne
  'Robson + Nayara':'bitzernayara@gmail.com',# Robson nao tem conta; Nayara conduz
+ 'Felipe':'',                                # 2o editor — falta e-mail
  'Hugo':'',                                  # SEM CONTA no ClickUp
  'Apoena':'',                                # SEM CONTA no ClickUp
  '—':''}
-SEM_CONTA={'Hugo','Apoena'}
+SEM_CONTA={'Hugo','Apoena','Felipe'}
 
 rows=[]; nid=0
 def novo(**kw):
@@ -97,7 +98,7 @@ f2.close()
 
 import datetime as _dt, collections
 PT=['seg','ter','qua','qui','sex','sáb','dom']
-for quem in ('Hugo','Apoena'):
+for quem in ('Hugo','Apoena','Felipe'):
     itens=[r for r in rows if r['resp']==quem]
     itens.sort(key=lambda r: r['due'])
     por=collections.OrderedDict()
